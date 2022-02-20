@@ -1,0 +1,15 @@
+{
+  "name" : "Ranging",
+  "description" : "EVB1000 ranging test for LPIoT",
+  "start_time" : "asap",
+  "duration" : 120,
+  "binaries": [{
+    "hardware" : "evb1000",
+    "bin_file": "rng-init.bin",
+    "targets": 3
+  },{
+    "hardware" : "evb1000",
+    "bin_file": "rng-resp.bin",
+    "targets": [2, 7, 8, 36]
+  }]
+}

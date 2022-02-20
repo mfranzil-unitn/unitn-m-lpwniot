@@ -1,0 +1,1 @@
+{"binaries": [{"bin_file": "multi-rng.bin", "serialBaudrate": null, "hardware": "evb1000", "programAddress": null, "targets": [8, 9, 10, 11, 12, 13, 14]}], "name": "Multi-ranging test", "duration": 120, "test_id": 5475, "start_time": "2021-12-01 12:55", "email": null, "required": "all", "user": "davide.vecchia@unitn.it", "logs": 0, "description": ".", "snapshot": false}

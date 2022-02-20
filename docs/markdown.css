@@ -1,0 +1,60 @@
+.vscode-body pre code {
+  font-family: "Fira Code";
+  font-feature-settings: "calt" 1;
+  color: black;
+}
+
+pre code {
+  color: black;
+}
+
+.vscode-body code {
+  font-family: "Fira Code";
+  font-feature-settings: "calt" 1;
+    
+  font-size: 14px;
+}
+
+.hljs-subst, .hljs-function, .hljs-title, .hljs-params, .hljs-formula {
+  color: rgb(0, 0, 146);
+}
+
+.hljs-number, .hljs-class {
+  color: #587573 !important;
+}
+
+blockquote {
+  border-radius: 3px;
+}
+
+pre:not(.hljs), pre.hljs code > div {
+  border-radius: 6px;
+  background-image: url("bg.png");
+  background-repeat: repeat;
+  margin: 2px;
+  padding: 8px;
+  width: 75%;
+}
+
+.pre {
+  border-radius: 6px;
+  background-image: url("bg.png");
+  background-repeat: repeat;
+  margin: 2px;
+  padding: 8px;
+}
+
+code {
+  font-family: "Fira Code", Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+  font-feature-settings: "liga1" on;
+  font-feature-settings: "calt" 1;
+  /*font-variant-ligatures: normal;*/
+  font-size: 14px;
+  line-height: 19px;
+  color: rgb(34, 71, 105);
+  font-style: bold;
+}
+
+.hljs {
+  background-color: rgba(247, 247, 247, 1);
+}

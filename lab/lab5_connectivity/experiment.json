@@ -1,0 +1,12 @@
+{
+  "name" : "Connectivity",
+  "description" : "Zolertia Firefly (CC2538) connectivity test for LPIoT",
+  "start_time" : "asap",
+  "duration" : 60,
+  "binaries" : {
+    "hardware" : "firefly",
+    "bin_file" : "connectivity.bin",
+    "targets" : [53, 54, 56, 57],
+    "programAddress": "0x00200000"
+  }
+}

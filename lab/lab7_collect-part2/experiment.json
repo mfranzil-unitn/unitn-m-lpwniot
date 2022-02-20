@@ -1,0 +1,12 @@
+{
+  "name" : "Collect protocol test",
+  "description" : "Zolertia Firefly (CC2538) collect protocol test for LPIoT",
+  "start_time" : "asap",
+  "duration" : 180,
+  "binaries" : {
+    "hardware" : "firefly",
+    "bin_file" : "app.bin",
+    "targets" : "disi_povo2",
+    "programAddress": "0x00200000"
+  }
+}

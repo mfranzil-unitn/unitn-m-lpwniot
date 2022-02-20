@@ -1,0 +1,12 @@
+{
+  "name" : "CC2538 test for LPIoT - chain",
+  "description" : "CC2538 test for LPIoT - chain",
+  "start_time" : "asap",
+  "duration" : 300,
+  "binaries" : {
+    "hardware" : "firefly",
+    "bin_file" : "chain.bin",
+    "targets" : [1,2,3,4,5,6,7],
+    "programAddress": "0x00200000"
+  }
+}

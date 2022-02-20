@@ -1,0 +1,11 @@
+{
+  "name" : "Multi-ranging test",
+  "description" : ".",
+  "start_time" : "asap",
+  "duration" : 120,
+  "binaries" : {
+    "hardware" : "evb1000",
+    "bin_file" : "multi-rng.bin",
+    "targets" : [8,9,10,11,12,13,14]
+  }
+}

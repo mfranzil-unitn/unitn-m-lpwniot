@@ -1,0 +1,1648 @@
+00:00.331	ID:8	Rime started with address 8.0
+00:00.341	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.350	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.352	ID:8	Starting 'App process'
+00:00.354	ID:8	App: I am a normal node 08:00
+00:00.495	ID:2	Rime started with address 2.0
+00:00.504	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.509	ID:6	Rime started with address 6.0
+00:00.513	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.515	ID:2	Starting 'App process'
+00:00.517	ID:2	App: I am a normal node 02:00
+00:00.519	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.528	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.530	ID:6	Starting 'App process'
+00:00.532	ID:6	App: I am a normal node 06:00
+00:00.607	ID:4	Rime started with address 4.0
+00:00.616	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.626	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.627	ID:4	Starting 'App process'
+00:00.629	ID:4	App: I am a normal node 04:00
+00:00.641	ID:1	Rime started with address 1.0
+00:00.650	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.659	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.660	ID:7	Rime started with address 7.0
+00:00.661	ID:1	Starting 'App process'
+00:00.663	ID:1	App: I am the sink 01:00
+00:00.670	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.679	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.681	ID:7	Starting 'App process'
+00:00.683	ID:7	App: I am a normal node 07:00
+00:00.815	ID:10	Rime started with address 10.0
+00:00.825	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
+00:00.834	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.836	ID:10	Starting 'App process'
+00:00.838	ID:10	App: I am a normal node 0a:00
+00:00.967	ID:9	Rime started with address 9.0
+00:00.974	ID:5	Rime started with address 5.0
+00:00.977	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.983	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.986	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.987	ID:9	Starting 'App process'
+00:00.990	ID:9	App: I am a normal node 09:00
+00:00.992	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.994	ID:5	Starting 'App process'
+00:00.996	ID:5	App: I am a normal node 05:00
+00:01.158	ID:3	Rime started with address 3.0
+00:01.167	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.177	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.178	ID:3	Starting 'App process'
+00:01.180	ID:3	App: I am a normal node 03:00
+00:01.663	ID:1	my_collect: sending beacon: seqn 0 metric 0
+00:01.712	ID:10	my_collect: recv beacon from 01:00 seqn 0 metric 0 rssi -86
+00:01.715	ID:10	my_collect: new parent 01:00, my metric 1
+00:01.745	ID:5	my_collect: recv beacon from 01:00 seqn 0 metric 0 rssi -85
+00:01.748	ID:5	my_collect: new parent 01:00, my metric 1
+00:01.767	ID:2	my_collect: recv beacon from 01:00 seqn 0 metric 0 rssi -63
+00:01.770	ID:2	my_collect: new parent 01:00, my metric 1
+00:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 0 metric 0 rssi -44
+00:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+00:01.808	ID:7	my_collect: recv beacon from 01:00 seqn 0 metric 0 rssi -39
+00:01.811	ID:7	my_collect: new parent 01:00, my metric 1
+00:01.915	ID:2	my_collect: sending beacon: seqn 0 metric 1
+00:01.994	ID:5	my_collect: recv beacon from 02:00 seqn 0 metric 1 rssi -31
+00:02.030	ID:6	my_collect: recv beacon from 02:00 seqn 0 metric 1 rssi -81
+00:02.038	ID:1	my_collect: recv beacon from 02:00 seqn 0 metric 1 rssi -63
+00:02.054	ID:7	my_collect: recv beacon from 02:00 seqn 0 metric 1 rssi -73
+00:02.221	ID:7	my_collect: sending beacon: seqn 0 metric 1
+00:02.265	ID:2	my_collect: recv beacon from 07:00 seqn 0 metric 1 rssi -73
+00:02.281	ID:6	my_collect: recv beacon from 07:00 seqn 0 metric 1 rssi -73
+00:02.287	ID:1	my_collect: recv beacon from 07:00 seqn 0 metric 1 rssi -39
+00:02.336	ID:6	my_collect: sending beacon: seqn 0 metric 1
+00:02.336	ID:10	my_collect: recv beacon from 07:00 seqn 0 metric 1 rssi -60
+00:02.391	ID:2	my_collect: recv beacon from 06:00 seqn 0 metric 1 rssi -81
+00:02.413	ID:1	my_collect: recv beacon from 06:00 seqn 0 metric 1 rssi -44
+00:02.433	ID:7	my_collect: recv beacon from 06:00 seqn 0 metric 1 rssi -73
+00:02.449	ID:5	my_collect: sending beacon: seqn 0 metric 1
+00:02.517	ID:2	my_collect: recv beacon from 05:00 seqn 0 metric 1 rssi -31
+00:02.536	ID:1	my_collect: recv beacon from 05:00 seqn 0 metric 1 rssi -85
+00:02.673	ID:10	my_collect: sending beacon: seqn 0 metric 1
+00:02.738	ID:9	my_collect: recv beacon from 0a:00 seqn 0 metric 1 rssi -80
+00:02.741	ID:9	my_collect: new parent 0a:00, my metric 2
+00:02.787	ID:1	my_collect: recv beacon from 0a:00 seqn 0 metric 1 rssi -86
+00:02.804	ID:3	my_collect: recv beacon from 0a:00 seqn 0 metric 1 rssi -52
+00:02.806	ID:7	my_collect: recv beacon from 0a:00 seqn 0 metric 1 rssi -60
+00:02.807	ID:3	my_collect: new parent 0a:00, my metric 2
+00:02.811	ID:3	my_collect: sending beacon: seqn 0 metric 2
+00:02.836	ID:10	my_collect: recv beacon from 03:00 seqn 0 metric 2 rssi -52
+00:02.848	ID:9	my_collect: sending beacon: seqn 0 metric 2
+00:02.852	ID:8	my_collect: recv beacon from 03:00 seqn 0 metric 2 rssi -89
+00:02.855	ID:8	my_collect: new parent 03:00, my metric 3
+00:03.111	ID:8	my_collect: sending beacon: seqn 0 metric 3
+00:03.180	ID:3	my_collect: recv beacon from 09:00 seqn 0 metric 2 rssi -51
+00:03.211	ID:10	my_collect: recv beacon from 09:00 seqn 0 metric 2 rssi -80
+00:03.227	ID:8	my_collect: recv beacon from 09:00 seqn 0 metric 2 rssi -62
+00:03.429	ID:3	my_collect: recv beacon from 08:00 seqn 0 metric 3 rssi -89
+00:03.489	ID:9	my_collect: recv beacon from 08:00 seqn 0 metric 3 rssi -62
+00:32.478	ID:4	App: Send seqn 0
+00:32.481	ID:4	App: Message seqn 0 sent correctly!
+00:34.001	ID:5	App: Send seqn 0
+00:34.004	ID:5	App: Message seqn 0 sent correctly!
+00:34.034	ID:1	App: Recv from 05:00 seqn 0 hops 1
+00:34.037	ID:1	my_collect: recv data from 05:00 hops 1
+00:35.992	ID:8	App: Send seqn 0
+00:35.995	ID:8	App: Message seqn 0 sent correctly!
+00:36.160	ID:1	App: Recv from 08:00 seqn 0 hops 3
+00:36.163	ID:1	my_collect: recv data from 0a:00 hops 3
+00:37.921	ID:3	App: Send seqn 0
+00:37.924	ID:3	App: Message seqn 0 sent correctly!
+00:38.034	ID:1	App: Recv from 03:00 seqn 0 hops 2
+00:38.037	ID:1	my_collect: recv data from 0a:00 hops 2
+00:38.124	ID:2	App: Send seqn 0
+00:38.127	ID:2	App: Message seqn 0 sent correctly!
+00:38.158	ID:1	App: Recv from 02:00 seqn 0 hops 1
+00:38.161	ID:1	my_collect: recv data from 02:00 hops 1
+00:38.507	ID:10	App: Send seqn 0
+00:38.510	ID:10	App: Message seqn 0 sent correctly!
+00:38.535	ID:1	App: Recv from 0a:00 seqn 0 hops 1
+00:38.538	ID:1	my_collect: recv data from 0a:00 hops 1
+00:44.279	ID:6	App: Send seqn 0
+00:44.282	ID:6	App: Message seqn 0 sent correctly!
+00:44.410	ID:1	App: Recv from 06:00 seqn 0 hops 1
+00:44.413	ID:1	my_collect: recv data from 06:00 hops 1
+00:44.953	ID:7	App: Send seqn 0
+00:44.957	ID:7	App: Message seqn 0 sent correctly!
+00:45.034	ID:1	App: Recv from 07:00 seqn 0 hops 1
+00:45.037	ID:1	my_collect: recv data from 07:00 hops 1
+00:45.573	ID:9	App: Send seqn 0
+00:45.576	ID:9	App: Message seqn 0 sent correctly!
+00:45.784	ID:1	App: Recv from 09:00 seqn 0 hops 2
+00:45.787	ID:1	my_collect: recv data from 0a:00 hops 2
+01:01.290	ID:5	App: Send seqn 1
+01:01.294	ID:5	App: Message seqn 1 sent correctly!
+01:01.410	ID:1	App: Recv from 05:00 seqn 1 hops 1
+01:01.413	ID:1	my_collect: recv data from 05:00 hops 1
+01:01.514	ID:10	App: Send seqn 1
+01:01.518	ID:10	App: Message seqn 1 sent correctly!
+01:01.533	ID:1	App: Recv from 0a:00 seqn 1 hops 1
+01:01.536	ID:1	my_collect: recv data from 0a:00 hops 1
+01:01.663	ID:1	my_collect: sending beacon: seqn 1 metric 0
+01:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -86
+01:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+01:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -85
+01:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+01:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -63
+01:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+01:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -44
+01:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+01:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 1 metric 0 rssi -39
+01:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+01:02.243	ID:10	my_collect: sending beacon: seqn 1 metric 1
+01:02.286	ID:1	my_collect: recv beacon from 0a:00 seqn 1 metric 1 rssi -86
+01:02.303	ID:3	my_collect: recv beacon from 0a:00 seqn 1 metric 1 rssi -52
+01:02.305	ID:7	my_collect: recv beacon from 0a:00 seqn 1 metric 1 rssi -60
+01:02.306	ID:3	my_collect: new parent 0a:00, my metric 2
+01:02.362	ID:9	my_collect: recv beacon from 0a:00 seqn 1 metric 1 rssi -80
+01:02.366	ID:9	my_collect: new parent 0a:00, my metric 2
+01:02.502	ID:7	my_collect: sending beacon: seqn 1 metric 1
+01:02.516	ID:6	my_collect: sending beacon: seqn 1 metric 1
+01:02.537	ID:1	my_collect: recv beacon from 07:00 seqn 1 metric 1 rssi -39
+01:02.550	ID:5	my_collect: sending beacon: seqn 1 metric 1
+01:02.662	ID:1	my_collect: recv beacon from 05:00 seqn 1 metric 1 rssi -85
+01:02.735	ID:2	my_collect: sending beacon: seqn 1 metric 1
+01:02.781	ID:6	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -81
+01:02.784	ID:1	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -63
+01:02.806	ID:7	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -73
+01:02.868	ID:5	my_collect: recv beacon from 02:00 seqn 1 metric 1 rssi -31
+01:02.871	ID:9	my_collect: sending beacon: seqn 1 metric 2
+01:02.928	ID:3	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -51
+01:02.961	ID:10	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -80
+01:02.977	ID:8	my_collect: recv beacon from 09:00 seqn 1 metric 2 rssi -62
+01:02.980	ID:8	my_collect: new parent 09:00, my metric 3
+01:03.019	ID:2	my_collect: recv beacon from 06:00 seqn 1 metric 1 rssi -81
+01:03.036	ID:1	my_collect: recv beacon from 06:00 seqn 1 metric 1 rssi -44
+01:03.055	ID:7	my_collect: recv beacon from 06:00 seqn 1 metric 1 rssi -73
+01:03.219	ID:3	my_collect: sending beacon: seqn 1 metric 2
+01:03.228	ID:8	my_collect: sending beacon: seqn 1 metric 3
+01:03.336	ID:10	my_collect: recv beacon from 03:00 seqn 1 metric 2 rssi -52
+01:03.352	ID:8	my_collect: recv beacon from 03:00 seqn 1 metric 2 rssi -89
+01:03.364	ID:9	my_collect: recv beacon from 03:00 seqn 1 metric 2 rssi -51
+01:03.737	ID:9	my_collect: recv beacon from 08:00 seqn 1 metric 3 rssi -62
+01:04.382	ID:2	App: Send seqn 1
+01:04.386	ID:2	App: Message seqn 1 sent correctly!
+01:04.408	ID:1	App: Recv from 02:00 seqn 1 hops 1
+01:04.411	ID:1	my_collect: recv data from 02:00 hops 1
+01:04.502	ID:4	App: Send seqn 1
+01:04.505	ID:4	App: Message seqn 1 sent correctly!
+01:04.930	ID:7	App: Send seqn 1
+01:04.933	ID:7	App: Message seqn 1 sent correctly!
+01:05.035	ID:1	App: Recv from 07:00 seqn 1 hops 1
+01:05.038	ID:1	my_collect: recv data from 07:00 hops 1
+01:05.724	ID:6	App: Send seqn 1
+01:05.727	ID:6	App: Message seqn 1 sent correctly!
+01:05.784	ID:1	App: Recv from 06:00 seqn 1 hops 1
+01:05.787	ID:1	my_collect: recv data from 06:00 hops 1
+01:07.299	ID:9	App: Send seqn 1
+01:07.303	ID:9	App: Message seqn 1 sent correctly!
+01:07.408	ID:1	App: Recv from 09:00 seqn 1 hops 2
+01:07.411	ID:1	my_collect: recv data from 0a:00 hops 2
+01:07.624	ID:8	App: Send seqn 1
+01:07.628	ID:8	App: Message seqn 1 sent correctly!
+01:07.908	ID:1	App: Recv from 08:00 seqn 1 hops 3
+01:07.911	ID:1	my_collect: recv data from 0a:00 hops 3
+01:14.522	ID:3	App: Send seqn 1
+01:14.525	ID:3	App: Message seqn 1 sent correctly!
+01:14.659	ID:1	App: Recv from 03:00 seqn 1 hops 2
+01:14.662	ID:1	my_collect: recv data from 0a:00 hops 2
+01:31.784	ID:9	App: Send seqn 2
+01:31.787	ID:9	App: Message seqn 2 sent correctly!
+01:31.909	ID:1	App: Recv from 09:00 seqn 2 hops 2
+01:31.912	ID:1	my_collect: recv data from 0a:00 hops 2
+01:32.344	ID:8	App: Send seqn 2
+01:32.347	ID:8	App: Message seqn 2 sent correctly!
+01:32.660	ID:1	App: Recv from 08:00 seqn 2 hops 3
+01:32.663	ID:1	my_collect: recv data from 0a:00 hops 3
+01:33.553	ID:2	App: Send seqn 2
+01:33.557	ID:2	App: Message seqn 2 sent correctly!
+01:33.658	ID:1	App: Recv from 02:00 seqn 2 hops 1
+01:33.661	ID:1	my_collect: recv data from 02:00 hops 1
+01:35.150	ID:5	App: Send seqn 2
+01:35.153	ID:5	App: Message seqn 2 sent correctly!
+01:35.256	ID:3	App: Send seqn 2
+01:35.259	ID:3	App: Message seqn 2 sent correctly!
+01:35.408	ID:1	App: Recv from 05:00 seqn 2 hops 1
+01:35.411	ID:1	my_collect: recv data from 05:00 hops 1
+01:35.535	ID:1	App: Recv from 03:00 seqn 2 hops 2
+01:35.538	ID:1	my_collect: recv data from 0a:00 hops 2
+01:36.915	ID:7	App: Send seqn 2
+01:36.918	ID:7	App: Message seqn 2 sent correctly!
+01:37.032	ID:1	App: Recv from 07:00 seqn 2 hops 1
+01:37.035	ID:1	my_collect: recv data from 07:00 hops 1
+01:38.186	ID:10	App: Send seqn 2
+01:38.189	ID:10	App: Message seqn 2 sent correctly!
+01:38.284	ID:1	App: Recv from 0a:00 seqn 2 hops 1
+01:38.287	ID:1	my_collect: recv data from 0a:00 hops 1
+01:38.447	ID:4	App: Send seqn 2
+01:38.450	ID:4	App: Message seqn 2 sent correctly!
+01:39.193	ID:6	App: Send seqn 2
+01:39.196	ID:6	App: Message seqn 2 sent correctly!
+01:39.284	ID:1	App: Recv from 06:00 seqn 2 hops 1
+01:39.287	ID:1	my_collect: recv data from 06:00 hops 1
+02:01.663	ID:1	my_collect: sending beacon: seqn 2 metric 0
+02:01.673	ID:7	App: Send seqn 3
+02:01.676	ID:7	App: Message seqn 3 sent correctly!
+02:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -86
+02:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+02:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -85
+02:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+02:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -63
+02:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+02:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -44
+02:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+02:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 2 metric 0 rssi -39
+02:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+02:01.852	ID:2	my_collect: sending beacon: seqn 2 metric 1
+02:01.906	ID:6	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -81
+02:01.909	ID:1	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -63
+02:01.931	ID:7	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -73
+02:01.993	ID:5	my_collect: recv beacon from 02:00 seqn 2 metric 1 rssi -31
+02:02.136	ID:5	my_collect: sending beacon: seqn 2 metric 1
+02:02.160	ID:7	my_collect: sending beacon: seqn 2 metric 1
+02:02.163	ID:1	my_collect: recv beacon from 05:00 seqn 2 metric 1 rssi -85
+02:02.286	ID:1	my_collect: recv beacon from 07:00 seqn 2 metric 1 rssi -39
+02:02.492	ID:6	my_collect: sending beacon: seqn 2 metric 1
+02:02.515	ID:2	my_collect: recv beacon from 06:00 seqn 2 metric 1 rssi -81
+02:02.537	ID:1	my_collect: recv beacon from 06:00 seqn 2 metric 1 rssi -44
+02:02.557	ID:7	my_collect: recv beacon from 06:00 seqn 2 metric 1 rssi -73
+02:02.610	ID:10	my_collect: sending beacon: seqn 2 metric 1
+02:02.626	ID:4	my_collect: recv beacon from 06:00 seqn 2 metric 1 rssi -62
+02:02.629	ID:4	my_collect: new parent 06:00, my metric 2
+02:02.661	ID:1	my_collect: recv beacon from 0a:00 seqn 2 metric 1 rssi -86
+02:02.678	ID:3	my_collect: recv beacon from 0a:00 seqn 2 metric 1 rssi -52
+02:02.681	ID:7	my_collect: recv beacon from 0a:00 seqn 2 metric 1 rssi -60
+02:02.681	ID:3	my_collect: new parent 0a:00, my metric 2
+02:02.738	ID:9	my_collect: recv beacon from 0a:00 seqn 2 metric 1 rssi -80
+02:02.741	ID:9	my_collect: new parent 0a:00, my metric 2
+02:02.747	ID:4	my_collect: sending beacon: seqn 2 metric 2
+02:02.778	ID:6	my_collect: recv beacon from 04:00 seqn 2 metric 2 rssi -62
+02:02.867	ID:3	my_collect: sending beacon: seqn 2 metric 2
+02:02.960	ID:10	my_collect: recv beacon from 03:00 seqn 2 metric 2 rssi -52
+02:02.976	ID:8	my_collect: recv beacon from 03:00 seqn 2 metric 2 rssi -89
+02:02.979	ID:8	my_collect: new parent 03:00, my metric 3
+02:02.987	ID:9	my_collect: recv beacon from 03:00 seqn 2 metric 2 rssi -51
+02:03.142	ID:8	my_collect: sending beacon: seqn 2 metric 3
+02:03.179	ID:3	my_collect: recv beacon from 08:00 seqn 2 metric 3 rssi -89
+02:03.237	ID:9	my_collect: recv beacon from 08:00 seqn 2 metric 3 rssi -62
+02:03.395	ID:9	my_collect: sending beacon: seqn 2 metric 2
+02:03.427	ID:3	my_collect: recv beacon from 09:00 seqn 2 metric 2 rssi -51
+02:03.460	ID:10	my_collect: recv beacon from 09:00 seqn 2 metric 2 rssi -80
+02:03.477	ID:8	my_collect: recv beacon from 09:00 seqn 2 metric 2 rssi -62
+02:04.284	ID:1	App: Recv from 07:00 seqn 3 hops 1
+02:04.287	ID:1	my_collect: recv data from 07:00 hops 1
+02:05.945	ID:8	App: Send seqn 3
+02:05.948	ID:8	App: Message seqn 3 sent correctly!
+02:06.158	ID:1	App: Recv from 08:00 seqn 3 hops 3
+02:06.161	ID:1	my_collect: recv data from 0a:00 hops 3
+02:08.138	ID:3	App: Send seqn 3
+02:08.142	ID:3	App: Message seqn 3 sent correctly!
+02:08.285	ID:1	App: Recv from 03:00 seqn 3 hops 2
+02:08.288	ID:1	my_collect: recv data from 0a:00 hops 2
+02:09.486	ID:4	App: Send seqn 3
+02:09.489	ID:4	App: Message seqn 3 sent correctly!
+02:09.659	ID:1	App: Recv from 04:00 seqn 3 hops 2
+02:09.662	ID:1	my_collect: recv data from 06:00 hops 2
+02:10.357	ID:6	App: Send seqn 3
+02:10.360	ID:6	App: Message seqn 3 sent correctly!
+02:10.407	ID:1	App: Recv from 06:00 seqn 3 hops 1
+02:10.410	ID:1	my_collect: recv data from 06:00 hops 1
+02:11.470	ID:5	App: Send seqn 3
+02:11.473	ID:5	App: Message seqn 3 sent correctly!
+02:11.534	ID:1	App: Recv from 05:00 seqn 3 hops 1
+02:11.537	ID:1	my_collect: recv data from 05:00 hops 1
+02:13.218	ID:2	App: Send seqn 3
+02:13.221	ID:2	App: Message seqn 3 sent correctly!
+02:13.284	ID:1	App: Recv from 02:00 seqn 3 hops 1
+02:13.287	ID:1	my_collect: recv data from 02:00 hops 1
+02:14.601	ID:10	App: Send seqn 3
+02:14.604	ID:10	App: Message seqn 3 sent correctly!
+02:14.660	ID:1	App: Recv from 0a:00 seqn 3 hops 1
+02:14.663	ID:1	my_collect: recv data from 0a:00 hops 1
+02:15.291	ID:9	App: Send seqn 3
+02:15.295	ID:9	App: Message seqn 3 sent correctly!
+02:15.410	ID:1	App: Recv from 09:00 seqn 3 hops 2
+02:15.413	ID:1	my_collect: recv data from 0a:00 hops 2
+02:31.846	ID:4	App: Send seqn 4
+02:31.849	ID:4	App: Message seqn 4 sent correctly!
+02:32.034	ID:1	App: Recv from 04:00 seqn 4 hops 2
+02:32.037	ID:1	my_collect: recv data from 06:00 hops 2
+02:34.467	ID:6	App: Send seqn 4
+02:34.470	ID:6	App: Message seqn 4 sent correctly!
+02:34.533	ID:1	App: Recv from 06:00 seqn 4 hops 1
+02:34.536	ID:1	my_collect: recv data from 06:00 hops 1
+02:37.210	ID:10	App: Send seqn 4
+02:37.213	ID:10	App: Message seqn 4 sent correctly!
+02:37.284	ID:1	App: Recv from 0a:00 seqn 4 hops 1
+02:37.287	ID:1	my_collect: recv data from 0a:00 hops 1
+02:38.813	ID:7	App: Send seqn 4
+02:38.816	ID:7	App: Message seqn 4 sent correctly!
+02:38.911	ID:1	App: Recv from 07:00 seqn 4 hops 1
+02:38.914	ID:1	my_collect: recv data from 07:00 hops 1
+02:40.060	ID:3	App: Send seqn 4
+02:40.064	ID:3	App: Message seqn 4 sent correctly!
+02:40.160	ID:1	App: Recv from 03:00 seqn 4 hops 2
+02:40.163	ID:1	my_collect: recv data from 0a:00 hops 2
+02:41.017	ID:5	App: Send seqn 4
+02:41.020	ID:5	App: Message seqn 4 sent correctly!
+02:41.160	ID:1	App: Recv from 05:00 seqn 4 hops 1
+02:41.163	ID:1	my_collect: recv data from 05:00 hops 1
+02:42.679	ID:8	App: Send seqn 4
+02:42.683	ID:8	App: Message seqn 4 sent correctly!
+02:42.909	ID:1	App: Recv from 08:00 seqn 4 hops 3
+02:42.912	ID:1	my_collect: recv data from 0a:00 hops 3
+02:42.963	ID:9	App: Send seqn 4
+02:42.966	ID:9	App: Message seqn 4 sent correctly!
+02:43.160	ID:1	App: Recv from 09:00 seqn 4 hops 2
+02:43.163	ID:1	my_collect: recv data from 0a:00 hops 2
+02:45.327	ID:2	App: Send seqn 4
+02:45.330	ID:2	App: Message seqn 4 sent correctly!
+02:45.411	ID:1	App: Recv from 02:00 seqn 4 hops 1
+02:45.414	ID:1	my_collect: recv data from 02:00 hops 1
+03:01.663	ID:1	my_collect: sending beacon: seqn 3 metric 0
+03:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -86
+03:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+03:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -85
+03:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+03:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -63
+03:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+03:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -44
+03:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+03:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 3 metric 0 rssi -39
+03:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+03:02.064	ID:2	my_collect: sending beacon: seqn 3 metric 1
+03:02.071	ID:10	my_collect: sending beacon: seqn 3 metric 1
+03:02.191	ID:5	my_collect: sending beacon: seqn 3 metric 1
+03:02.203	ID:6	my_collect: sending beacon: seqn 3 metric 1
+03:02.251	ID:4	my_collect: recv beacon from 06:00 seqn 3 metric 1 rssi -62
+03:02.255	ID:4	my_collect: new parent 06:00, my metric 2
+03:02.265	ID:2	my_collect: recv beacon from 06:00 seqn 3 metric 1 rssi -81
+03:02.287	ID:1	my_collect: recv beacon from 06:00 seqn 3 metric 1 rssi -44
+03:02.306	ID:7	my_collect: recv beacon from 06:00 seqn 3 metric 1 rssi -73
+03:02.390	ID:2	my_collect: recv beacon from 05:00 seqn 3 metric 1 rssi -31
+03:02.412	ID:1	my_collect: recv beacon from 05:00 seqn 3 metric 1 rssi -85
+03:02.737	ID:7	my_collect: sending beacon: seqn 3 metric 1
+03:02.766	ID:2	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -73
+03:02.780	ID:6	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -73
+03:02.785	ID:1	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -39
+03:02.837	ID:10	my_collect: recv beacon from 07:00 seqn 3 metric 1 rssi -60
+03:02.916	ID:4	App: Send seqn 5
+03:02.919	ID:4	App: Message seqn 5 sent correctly!
+03:03.159	ID:1	App: Recv from 04:00 seqn 5 hops 2
+03:03.162	ID:1	my_collect: recv data from 06:00 hops 2
+03:03.207	ID:4	my_collect: sending beacon: seqn 3 metric 2
+03:03.280	ID:6	my_collect: recv beacon from 04:00 seqn 3 metric 2 rssi -62
+03:04.850	ID:3	App: Send seqn 5
+03:04.853	ID:3	App: Message seqn 5 sent correctly!
+03:05.036	ID:1	App: Recv from 03:00 seqn 5 hops 2
+03:05.039	ID:1	my_collect: recv data from 0a:00 hops 2
+03:07.522	ID:2	App: Send seqn 5
+03:07.525	ID:2	App: Message seqn 5 sent correctly!
+03:07.660	ID:1	App: Recv from 02:00 seqn 5 hops 1
+03:07.663	ID:1	my_collect: recv data from 02:00 hops 1
+03:11.155	ID:10	App: Send seqn 5
+03:11.158	ID:10	App: Message seqn 5 sent correctly!
+03:11.284	ID:1	App: Recv from 0a:00 seqn 5 hops 1
+03:11.287	ID:1	my_collect: recv data from 0a:00 hops 1
+03:11.878	ID:9	App: Send seqn 5
+03:11.881	ID:9	App: Message seqn 5 sent correctly!
+03:12.034	ID:1	App: Recv from 09:00 seqn 5 hops 2
+03:12.037	ID:1	my_collect: recv data from 0a:00 hops 2
+03:12.994	ID:5	App: Send seqn 5
+03:12.997	ID:5	App: Message seqn 5 sent correctly!
+03:13.034	ID:1	App: Recv from 05:00 seqn 5 hops 1
+03:13.037	ID:1	my_collect: recv data from 05:00 hops 1
+03:13.562	ID:8	App: Send seqn 5
+03:13.565	ID:8	App: Message seqn 5 sent correctly!
+03:13.785	ID:1	App: Recv from 08:00 seqn 5 hops 3
+03:13.788	ID:1	my_collect: recv data from 0a:00 hops 3
+03:14.602	ID:7	App: Send seqn 5
+03:14.605	ID:7	App: Message seqn 5 sent correctly!
+03:14.659	ID:1	App: Recv from 07:00 seqn 5 hops 1
+03:14.662	ID:1	my_collect: recv data from 07:00 hops 1
+03:15.162	ID:6	App: Send seqn 5
+03:15.165	ID:6	App: Message seqn 5 sent correctly!
+03:15.286	ID:1	App: Recv from 06:00 seqn 5 hops 1
+03:15.289	ID:1	my_collect: recv data from 06:00 hops 1
+03:30.962	ID:4	App: Send seqn 6
+03:30.966	ID:4	App: Message seqn 6 sent correctly!
+03:31.159	ID:1	App: Recv from 04:00 seqn 6 hops 2
+03:31.162	ID:1	my_collect: recv data from 06:00 hops 2
+03:32.510	ID:9	App: Send seqn 6
+03:32.513	ID:9	App: Message seqn 6 sent correctly!
+03:32.660	ID:1	App: Recv from 09:00 seqn 6 hops 2
+03:32.663	ID:1	my_collect: recv data from 0a:00 hops 2
+03:32.736	ID:5	App: Send seqn 6
+03:32.740	ID:5	App: Message seqn 6 sent correctly!
+03:32.784	ID:1	App: Recv from 05:00 seqn 6 hops 1
+03:32.787	ID:1	my_collect: recv data from 05:00 hops 1
+03:35.958	ID:6	App: Send seqn 6
+03:35.962	ID:6	App: Message seqn 6 sent correctly!
+03:36.032	ID:1	App: Recv from 06:00 seqn 6 hops 1
+03:36.035	ID:1	my_collect: recv data from 06:00 hops 1
+03:36.461	ID:7	App: Send seqn 6
+03:36.465	ID:7	App: Message seqn 6 sent correctly!
+03:36.535	ID:1	App: Recv from 07:00 seqn 6 hops 1
+03:36.538	ID:1	my_collect: recv data from 07:00 hops 1
+03:36.789	ID:8	App: Send seqn 6
+03:36.792	ID:8	App: Message seqn 6 sent correctly!
+03:36.857	ID:3	App: Send seqn 6
+03:36.860	ID:3	App: Message seqn 6 sent correctly!
+03:37.407	ID:1	App: Recv from 03:00 seqn 6 hops 2
+03:37.410	ID:1	my_collect: recv data from 0a:00 hops 2
+03:37.533	ID:1	App: Recv from 08:00 seqn 6 hops 3
+03:37.536	ID:1	my_collect: recv data from 0a:00 hops 3
+03:44.319	ID:2	App: Send seqn 6
+03:44.322	ID:2	App: Message seqn 6 sent correctly!
+03:44.410	ID:1	App: Recv from 02:00 seqn 6 hops 1
+03:44.413	ID:1	my_collect: recv data from 02:00 hops 1
+03:44.453	ID:10	App: Send seqn 6
+03:44.456	ID:10	App: Message seqn 6 sent correctly!
+03:44.534	ID:1	App: Recv from 0a:00 seqn 6 hops 1
+03:44.537	ID:1	my_collect: recv data from 0a:00 hops 1
+04:01.288	ID:10	App: Send seqn 7
+04:01.291	ID:10	App: Message seqn 7 sent correctly!
+04:01.337	ID:5	App: Send seqn 7
+04:01.341	ID:5	App: Message seqn 7 sent correctly!
+04:01.663	ID:1	my_collect: sending beacon: seqn 4 metric 0
+04:02.034	ID:1	App: Recv from 0a:00 seqn 7 hops 1
+04:02.037	ID:1	my_collect: recv data from 0a:00 hops 1
+04:02.086	ID:10	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -86
+04:02.089	ID:10	my_collect: new parent 01:00, my metric 1
+04:02.118	ID:5	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -85
+04:02.121	ID:5	my_collect: new parent 01:00, my metric 1
+04:02.140	ID:2	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -63
+04:02.143	ID:2	my_collect: new parent 01:00, my metric 1
+04:02.154	ID:6	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -44
+04:02.157	ID:6	my_collect: new parent 01:00, my metric 1
+04:02.178	ID:7	my_collect: recv beacon from 01:00 seqn 4 metric 0 rssi -39
+04:02.181	ID:7	my_collect: new parent 01:00, my metric 1
+04:02.198	ID:7	my_collect: sending beacon: seqn 4 metric 1
+04:02.257	ID:6	my_collect: sending beacon: seqn 4 metric 1
+04:02.265	ID:2	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -73
+04:02.279	ID:6	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -73
+04:02.287	ID:1	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -39
+04:02.337	ID:10	my_collect: recv beacon from 07:00 seqn 4 metric 1 rssi -60
+04:02.410	ID:1	App: Recv from 05:00 seqn 7 hops 1
+04:02.413	ID:1	my_collect: recv data from 05:00 hops 1
+04:02.618	ID:2	my_collect: sending beacon: seqn 4 metric 1
+04:02.655	ID:6	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -81
+04:02.661	ID:1	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -63
+04:02.680	ID:7	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -73
+04:02.746	ID:5	my_collect: recv beacon from 02:00 seqn 4 metric 1 rssi -31
+04:02.923	ID:10	my_collect: sending beacon: seqn 4 metric 1
+04:02.943	ID:3	App: Send seqn 7
+04:02.947	ID:3	App: Message seqn 7 sent correctly!
+04:02.987	ID:9	my_collect: recv beacon from 0a:00 seqn 4 metric 1 rssi -80
+04:02.990	ID:9	my_collect: new parent 0a:00, my metric 2
+04:03.037	ID:1	my_collect: recv beacon from 0a:00 seqn 4 metric 1 rssi -86
+04:03.053	ID:3	my_collect: recv beacon from 0a:00 seqn 4 metric 1 rssi -52
+04:03.056	ID:7	my_collect: recv beacon from 0a:00 seqn 4 metric 1 rssi -60
+04:03.056	ID:3	my_collect: new parent 0a:00, my metric 2
+04:03.081	ID:5	my_collect: sending beacon: seqn 4 metric 1
+04:03.140	ID:2	my_collect: recv beacon from 05:00 seqn 4 metric 1 rssi -31
+04:03.162	ID:1	my_collect: recv beacon from 05:00 seqn 4 metric 1 rssi -85
+04:03.408	ID:1	App: Recv from 03:00 seqn 7 hops 2
+04:03.411	ID:1	my_collect: recv data from 0a:00 hops 2
+04:03.414	ID:3	my_collect: sending beacon: seqn 4 metric 2
+04:03.459	ID:10	my_collect: recv beacon from 03:00 seqn 4 metric 2 rssi -52
+04:03.476	ID:8	my_collect: recv beacon from 03:00 seqn 4 metric 2 rssi -89
+04:03.479	ID:8	my_collect: new parent 03:00, my metric 3
+04:03.487	ID:9	my_collect: recv beacon from 03:00 seqn 4 metric 2 rssi -51
+04:03.934	ID:9	my_collect: sending beacon: seqn 4 metric 2
+04:03.961	ID:10	my_collect: recv beacon from 09:00 seqn 4 metric 2 rssi -80
+04:03.977	ID:8	my_collect: recv beacon from 09:00 seqn 4 metric 2 rssi -62
+04:04.125	ID:4	my_collect: recv beacon from 06:00 seqn 4 metric 1 rssi -62
+04:04.128	ID:4	my_collect: new parent 06:00, my metric 2
+04:04.386	ID:4	my_collect: sending beacon: seqn 4 metric 2
+04:04.400	ID:8	my_collect: sending beacon: seqn 4 metric 3
+04:04.671	ID:2	App: Send seqn 7
+04:04.674	ID:2	App: Message seqn 7 sent correctly!
+04:04.785	ID:1	App: Recv from 02:00 seqn 7 hops 1
+04:04.788	ID:1	my_collect: recv data from 02:00 hops 1
+04:06.484	ID:8	App: Send seqn 7
+04:06.487	ID:8	App: Message seqn 7 sent correctly!
+04:06.659	ID:1	App: Recv from 08:00 seqn 7 hops 3
+04:06.662	ID:1	my_collect: recv data from 0a:00 hops 3
+04:12.689	ID:4	App: Send seqn 7
+04:12.693	ID:4	App: Message seqn 7 sent correctly!
+04:12.909	ID:1	App: Recv from 04:00 seqn 7 hops 2
+04:12.912	ID:1	my_collect: recv data from 06:00 hops 2
+04:13.487	ID:9	App: Send seqn 7
+04:13.490	ID:9	App: Message seqn 7 sent correctly!
+04:13.660	ID:1	App: Recv from 09:00 seqn 7 hops 2
+04:13.663	ID:1	my_collect: recv data from 0a:00 hops 2
+04:14.281	ID:7	App: Send seqn 7
+04:14.285	ID:7	App: Message seqn 7 sent correctly!
+04:14.410	ID:1	App: Recv from 07:00 seqn 7 hops 1
+04:14.413	ID:1	my_collect: recv data from 07:00 hops 1
+04:14.810	ID:6	App: Send seqn 7
+04:14.814	ID:6	App: Message seqn 7 sent correctly!
+04:14.910	ID:1	App: Recv from 06:00 seqn 7 hops 1
+04:14.913	ID:1	my_collect: recv data from 06:00 hops 1
+04:31.828	ID:7	App: Send seqn 8
+04:31.832	ID:7	App: Message seqn 8 sent correctly!
+04:31.909	ID:1	App: Recv from 07:00 seqn 8 hops 1
+04:31.912	ID:1	my_collect: recv data from 07:00 hops 1
+04:33.638	ID:6	App: Send seqn 8
+04:33.642	ID:6	App: Message seqn 8 sent correctly!
+04:33.785	ID:1	App: Recv from 06:00 seqn 8 hops 1
+04:33.788	ID:1	my_collect: recv data from 06:00 hops 1
+04:35.181	ID:5	App: Send seqn 8
+04:35.184	ID:5	App: Message seqn 8 sent correctly!
+04:35.284	ID:1	App: Recv from 05:00 seqn 8 hops 1
+04:35.287	ID:1	my_collect: recv data from 05:00 hops 1
+04:35.796	ID:3	App: Send seqn 8
+04:35.799	ID:3	App: Message seqn 8 sent correctly!
+04:35.907	ID:1	App: Recv from 03:00 seqn 8 hops 2
+04:35.910	ID:1	my_collect: recv data from 0a:00 hops 2
+04:37.471	ID:9	App: Send seqn 8
+04:37.475	ID:9	App: Message seqn 8 sent correctly!
+04:37.660	ID:1	App: Recv from 09:00 seqn 8 hops 2
+04:37.663	ID:1	my_collect: recv data from 0a:00 hops 2
+04:38.397	ID:10	App: Send seqn 8
+04:38.401	ID:10	App: Message seqn 8 sent correctly!
+04:38.533	ID:1	App: Recv from 0a:00 seqn 8 hops 1
+04:38.536	ID:1	my_collect: recv data from 0a:00 hops 1
+04:39.905	ID:2	App: Send seqn 8
+04:39.908	ID:2	App: Message seqn 8 sent correctly!
+04:40.034	ID:1	App: Recv from 02:00 seqn 8 hops 1
+04:40.037	ID:1	my_collect: recv data from 02:00 hops 1
+04:40.281	ID:8	App: Send seqn 8
+04:40.284	ID:8	App: Message seqn 8 sent correctly!
+04:40.408	ID:1	App: Recv from 08:00 seqn 8 hops 3
+04:40.411	ID:1	my_collect: recv data from 0a:00 hops 3
+04:43.174	ID:4	App: Send seqn 8
+04:43.177	ID:4	App: Message seqn 8 sent correctly!
+04:43.409	ID:1	App: Recv from 04:00 seqn 8 hops 2
+04:43.412	ID:1	my_collect: recv data from 06:00 hops 2
+05:01.305	ID:7	App: Send seqn 9
+05:01.308	ID:7	App: Message seqn 9 sent correctly!
+05:01.410	ID:1	App: Recv from 07:00 seqn 9 hops 1
+05:01.413	ID:1	my_collect: recv data from 07:00 hops 1
+05:01.663	ID:1	my_collect: sending beacon: seqn 5 metric 0
+05:01.681	ID:4	App: Send seqn 9
+05:01.684	ID:4	App: Message seqn 9 sent correctly!
+05:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -86
+05:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+05:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -85
+05:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+05:01.759	ID:10	my_collect: sending beacon: seqn 5 metric 1
+05:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -63
+05:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+05:01.773	ID:2	my_collect: sending beacon: seqn 5 metric 1
+05:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -44
+05:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+05:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 5 metric 0 rssi -39
+05:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+05:02.285	ID:1	App: Recv from 04:00 seqn 9 hops 2
+05:02.286	ID:6	my_collect: sending beacon: seqn 5 metric 1
+05:02.288	ID:1	my_collect: recv data from 06:00 hops 2
+05:02.307	ID:7	my_collect: recv beacon from 06:00 seqn 5 metric 1 rssi -73
+05:02.377	ID:7	my_collect: sending beacon: seqn 5 metric 1
+05:02.378	ID:4	my_collect: recv beacon from 06:00 seqn 5 metric 1 rssi -62
+05:02.381	ID:4	my_collect: new parent 06:00, my metric 2
+05:02.389	ID:2	my_collect: recv beacon from 06:00 seqn 5 metric 1 rssi -81
+05:02.409	ID:1	my_collect: recv beacon from 06:00 seqn 5 metric 1 rssi -44
+05:02.418	ID:5	my_collect: sending beacon: seqn 5 metric 1
+05:02.587	ID:10	my_collect: recv beacon from 07:00 seqn 5 metric 1 rssi -60
+05:03.019	ID:4	my_collect: sending beacon: seqn 5 metric 2
+05:03.155	ID:6	my_collect: recv beacon from 04:00 seqn 5 metric 2 rssi -62
+05:03.876	ID:5	App: Send seqn 9
+05:03.879	ID:5	App: Message seqn 9 sent correctly!
+05:03.909	ID:1	App: Recv from 05:00 seqn 9 hops 1
+05:03.912	ID:1	my_collect: recv data from 05:00 hops 1
+05:06.538	ID:2	App: Send seqn 9
+05:06.541	ID:2	App: Message seqn 9 sent correctly!
+05:06.659	ID:1	App: Recv from 02:00 seqn 9 hops 1
+05:06.662	ID:1	my_collect: recv data from 02:00 hops 1
+05:08.132	ID:8	App: Send seqn 9
+05:08.136	ID:8	App: Message seqn 9 sent correctly!
+05:08.284	ID:1	App: Recv from 08:00 seqn 9 hops 3
+05:08.287	ID:1	my_collect: recv data from 0a:00 hops 3
+05:09.897	ID:6	App: Send seqn 9
+05:09.900	ID:6	App: Message seqn 9 sent correctly!
+05:10.035	ID:1	App: Recv from 06:00 seqn 9 hops 1
+05:10.038	ID:1	my_collect: recv data from 06:00 hops 1
+05:11.230	ID:9	App: Send seqn 9
+05:11.233	ID:9	App: Message seqn 9 sent correctly!
+05:11.408	ID:1	App: Recv from 09:00 seqn 9 hops 2
+05:11.411	ID:1	my_collect: recv data from 0a:00 hops 2
+05:11.897	ID:3	App: Send seqn 9
+05:11.900	ID:3	App: Message seqn 9 sent correctly!
+05:12.034	ID:1	App: Recv from 03:00 seqn 9 hops 2
+05:12.037	ID:1	my_collect: recv data from 0a:00 hops 2
+05:14.592	ID:10	App: Send seqn 9
+05:14.596	ID:10	App: Message seqn 9 sent correctly!
+05:14.659	ID:1	App: Recv from 0a:00 seqn 9 hops 1
+05:14.662	ID:1	my_collect: recv data from 0a:00 hops 1
+05:30.900	ID:4	App: Send seqn 10
+05:30.903	ID:4	App: Message seqn 10 sent correctly!
+05:31.157	ID:1	App: Recv from 04:00 seqn 10 hops 2
+05:31.160	ID:1	my_collect: recv data from 06:00 hops 2
+05:31.673	ID:5	App: Send seqn 10
+05:31.676	ID:5	App: Message seqn 10 sent correctly!
+05:31.785	ID:1	App: Recv from 05:00 seqn 10 hops 1
+05:31.788	ID:1	my_collect: recv data from 05:00 hops 1
+05:32.548	ID:7	App: Send seqn 10
+05:32.552	ID:7	App: Message seqn 10 sent correctly!
+05:32.660	ID:1	App: Recv from 07:00 seqn 10 hops 1
+05:32.663	ID:1	my_collect: recv data from 07:00 hops 1
+05:41.068	ID:6	App: Send seqn 10
+05:41.071	ID:6	App: Message seqn 10 sent correctly!
+05:41.159	ID:1	App: Recv from 06:00 seqn 10 hops 1
+05:41.162	ID:1	my_collect: recv data from 06:00 hops 1
+05:42.831	ID:9	App: Send seqn 10
+05:42.834	ID:9	App: Message seqn 10 sent correctly!
+05:42.967	ID:3	App: Send seqn 10
+05:42.970	ID:3	App: Message seqn 10 sent correctly!
+05:43.036	ID:1	App: Recv from 09:00 seqn 10 hops 2
+05:43.039	ID:1	my_collect: recv data from 0a:00 hops 2
+05:43.159	ID:1	App: Recv from 03:00 seqn 10 hops 2
+05:43.162	ID:1	my_collect: recv data from 0a:00 hops 2
+05:43.499	ID:2	App: Send seqn 10
+05:43.502	ID:2	App: Message seqn 10 sent correctly!
+05:43.534	ID:1	App: Recv from 02:00 seqn 10 hops 1
+05:43.537	ID:1	my_collect: recv data from 02:00 hops 1
+05:43.953	ID:8	App: Send seqn 10
+05:43.956	ID:8	App: Message seqn 10 sent correctly!
+05:44.159	ID:1	App: Recv from 08:00 seqn 10 hops 3
+05:44.162	ID:1	my_collect: recv data from 0a:00 hops 3
+05:45.741	ID:10	App: Send seqn 10
+05:45.745	ID:10	App: Message seqn 10 sent correctly!
+05:45.784	ID:1	App: Recv from 0a:00 seqn 10 hops 1
+05:45.787	ID:1	my_collect: recv data from 0a:00 hops 1
+06:00.732	ID:6	App: Send seqn 11
+06:00.736	ID:6	App: Message seqn 11 sent correctly!
+06:00.785	ID:1	App: Recv from 06:00 seqn 11 hops 1
+06:00.788	ID:1	my_collect: recv data from 06:00 hops 1
+06:01.649	ID:7	App: Send seqn 11
+06:01.653	ID:7	App: Message seqn 11 sent correctly!
+06:01.663	ID:1	my_collect: sending beacon: seqn 6 metric 0
+06:01.785	ID:1	App: Recv from 07:00 seqn 11 hops 1
+06:01.788	ID:1	my_collect: recv data from 07:00 hops 1
+06:01.869	ID:5	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -85
+06:01.872	ID:5	my_collect: new parent 01:00, my metric 1
+06:01.891	ID:2	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -63
+06:01.894	ID:2	my_collect: new parent 01:00, my metric 1
+06:01.905	ID:6	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -44
+06:01.908	ID:6	my_collect: new parent 01:00, my metric 1
+06:01.929	ID:7	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -39
+06:01.933	ID:7	my_collect: new parent 01:00, my metric 1
+06:01.960	ID:10	my_collect: recv beacon from 01:00 seqn 6 metric 0 rssi -86
+06:01.963	ID:10	my_collect: new parent 01:00, my metric 1
+06:01.971	ID:7	my_collect: sending beacon: seqn 6 metric 1
+06:02.014	ID:2	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -73
+06:02.030	ID:6	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -73
+06:02.036	ID:1	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -39
+06:02.085	ID:10	my_collect: recv beacon from 07:00 seqn 6 metric 1 rssi -60
+06:02.103	ID:10	my_collect: sending beacon: seqn 6 metric 1
+06:02.160	ID:1	my_collect: recv beacon from 0a:00 seqn 6 metric 1 rssi -86
+06:02.180	ID:3	my_collect: recv beacon from 0a:00 seqn 6 metric 1 rssi -52
+06:02.180	ID:7	my_collect: recv beacon from 0a:00 seqn 6 metric 1 rssi -60
+06:02.183	ID:3	my_collect: new parent 0a:00, my metric 2
+06:02.222	ID:5	my_collect: sending beacon: seqn 6 metric 1
+06:02.235	ID:2	my_collect: sending beacon: seqn 6 metric 1
+06:02.237	ID:9	my_collect: recv beacon from 0a:00 seqn 6 metric 1 rssi -80
+06:02.240	ID:9	my_collect: new parent 0a:00, my metric 2
+06:02.287	ID:1	my_collect: recv beacon from 05:00 seqn 6 metric 1 rssi -85
+06:02.401	ID:9	App: Send seqn 11
+06:02.404	ID:9	App: Message seqn 11 sent correctly!
+06:02.492	ID:6	my_collect: sending beacon: seqn 6 metric 1
+06:02.659	ID:1	App: Recv from 09:00 seqn 11 hops 2
+06:02.662	ID:1	my_collect: recv data from 0a:00 hops 2
+06:02.742	ID:3	my_collect: sending beacon: seqn 6 metric 2
+06:02.817	ID:9	my_collect: sending beacon: seqn 6 metric 2
+06:02.890	ID:2	my_collect: recv beacon from 06:00 seqn 6 metric 1 rssi -81
+06:02.912	ID:1	my_collect: recv beacon from 06:00 seqn 6 metric 1 rssi -44
+06:02.962	ID:10	my_collect: recv beacon from 09:00 seqn 6 metric 2 rssi -80
+06:02.975	ID:8	my_collect: recv beacon from 09:00 seqn 6 metric 2 rssi -62
+06:02.979	ID:8	my_collect: new parent 09:00, my metric 3
+06:03.126	ID:8	my_collect: sending beacon: seqn 6 metric 3
+06:03.178	ID:3	my_collect: recv beacon from 08:00 seqn 6 metric 3 rssi -89
+06:03.238	ID:9	my_collect: recv beacon from 08:00 seqn 6 metric 3 rssi -62
+06:04.014	ID:3	App: Send seqn 11
+06:04.017	ID:3	App: Message seqn 11 sent correctly!
+06:04.159	ID:1	App: Recv from 03:00 seqn 11 hops 2
+06:04.162	ID:1	my_collect: recv data from 0a:00 hops 2
+06:04.525	ID:5	App: Send seqn 11
+06:04.528	ID:5	App: Message seqn 11 sent correctly!
+06:04.659	ID:1	App: Recv from 05:00 seqn 11 hops 1
+06:04.662	ID:1	my_collect: recv data from 05:00 hops 1
+06:06.061	ID:10	App: Send seqn 11
+06:06.065	ID:10	App: Message seqn 11 sent correctly!
+06:06.159	ID:1	App: Recv from 0a:00 seqn 11 hops 1
+06:06.162	ID:1	my_collect: recv data from 0a:00 hops 1
+06:11.877	ID:4	App: Send seqn 11
+06:11.880	ID:4	App: Message seqn 11 sent correctly!
+06:12.034	ID:1	App: Recv from 04:00 seqn 11 hops 2
+06:12.037	ID:1	my_collect: recv data from 06:00 hops 2
+06:13.367	ID:8	App: Send seqn 11
+06:13.370	ID:8	App: Message seqn 11 sent correctly!
+06:13.659	ID:1	App: Recv from 08:00 seqn 11 hops 3
+06:13.662	ID:1	my_collect: recv data from 0a:00 hops 3
+06:15.258	ID:2	App: Send seqn 11
+06:15.261	ID:2	App: Message seqn 11 sent correctly!
+06:15.284	ID:1	App: Recv from 02:00 seqn 11 hops 1
+06:15.287	ID:1	my_collect: recv data from 02:00 hops 1
+06:32.475	ID:2	App: Send seqn 12
+06:32.479	ID:2	App: Message seqn 12 sent correctly!
+06:32.535	ID:1	App: Recv from 02:00 seqn 12 hops 1
+06:32.538	ID:1	my_collect: recv data from 02:00 hops 1
+06:32.976	ID:8	App: Send seqn 12
+06:32.980	ID:8	App: Message seqn 12 sent correctly!
+06:33.285	ID:1	App: Recv from 08:00 seqn 12 hops 3
+06:33.288	ID:1	my_collect: recv data from 0a:00 hops 3
+06:34.326	ID:6	App: Send seqn 12
+06:34.329	ID:6	App: Message seqn 12 sent correctly!
+06:34.407	ID:1	App: Recv from 06:00 seqn 12 hops 1
+06:34.410	ID:1	my_collect: recv data from 06:00 hops 1
+06:35.759	ID:5	App: Send seqn 12
+06:35.763	ID:5	App: Message seqn 12 sent correctly!
+06:35.783	ID:1	App: Recv from 05:00 seqn 12 hops 1
+06:35.786	ID:1	my_collect: recv data from 05:00 hops 1
+06:36.675	ID:9	App: Send seqn 12
+06:36.678	ID:9	App: Message seqn 12 sent correctly!
+06:36.784	ID:1	App: Recv from 09:00 seqn 12 hops 2
+06:36.787	ID:1	my_collect: recv data from 0a:00 hops 2
+06:38.935	ID:3	App: Send seqn 12
+06:38.939	ID:3	App: Message seqn 12 sent correctly!
+06:39.035	ID:1	App: Recv from 03:00 seqn 12 hops 2
+06:39.038	ID:1	my_collect: recv data from 0a:00 hops 2
+06:39.322	ID:4	App: Send seqn 12
+06:39.325	ID:4	App: Message seqn 12 sent correctly!
+06:39.534	ID:1	App: Recv from 04:00 seqn 12 hops 2
+06:39.537	ID:1	my_collect: recv data from 06:00 hops 2
+06:45.383	ID:7	App: Send seqn 12
+06:45.387	ID:7	App: Message seqn 12 sent correctly!
+06:45.410	ID:1	App: Recv from 07:00 seqn 12 hops 1
+06:45.413	ID:1	my_collect: recv data from 07:00 hops 1
+06:45.585	ID:10	App: Send seqn 12
+06:45.588	ID:10	App: Message seqn 12 sent correctly!
+06:45.659	ID:1	App: Recv from 0a:00 seqn 12 hops 1
+06:45.662	ID:1	my_collect: recv data from 0a:00 hops 1
+07:01.663	ID:1	my_collect: sending beacon: seqn 7 metric 0
+07:01.702	ID:2	App: Send seqn 13
+07:01.706	ID:2	App: Message seqn 13 sent correctly!
+07:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -86
+07:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+07:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -85
+07:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+07:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -63
+07:01.766	ID:7	App: Send seqn 13
+07:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+07:01.769	ID:7	App: Message seqn 13 sent correctly!
+07:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -44
+07:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+07:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 7 metric 0 rssi -39
+07:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+07:01.815	ID:7	my_collect: sending beacon: seqn 7 metric 1
+07:01.836	ID:10	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -60
+07:01.891	ID:2	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -73
+07:01.904	ID:6	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -73
+07:01.912	ID:1	my_collect: recv beacon from 07:00 seqn 7 metric 1 rssi -39
+07:02.035	ID:1	App: Recv from 07:00 seqn 13 hops 1
+07:02.038	ID:1	my_collect: recv data from 07:00 hops 1
+07:02.121	ID:5	my_collect: sending beacon: seqn 7 metric 1
+07:02.142	ID:2	my_collect: recv beacon from 05:00 seqn 7 metric 1 rssi -31
+07:02.161	ID:1	my_collect: recv beacon from 05:00 seqn 7 metric 1 rssi -85
+07:02.410	ID:1	App: Recv from 02:00 seqn 13 hops 1
+07:02.413	ID:1	my_collect: recv data from 02:00 hops 1
+07:02.437	ID:6	my_collect: sending beacon: seqn 7 metric 1
+07:02.446	ID:2	my_collect: sending beacon: seqn 7 metric 1
+07:02.446	ID:10	my_collect: sending beacon: seqn 7 metric 1
+07:02.869	ID:5	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -31
+07:02.905	ID:6	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -81
+07:02.910	ID:1	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -63
+07:02.930	ID:7	my_collect: recv beacon from 02:00 seqn 7 metric 1 rssi -73
+07:04.370	ID:9	App: Send seqn 13
+07:04.373	ID:9	App: Message seqn 13 sent correctly!
+07:04.534	ID:1	App: Recv from 09:00 seqn 13 hops 2
+07:04.537	ID:1	my_collect: recv data from 0a:00 hops 2
+07:05.225	ID:3	App: Send seqn 13
+07:05.228	ID:3	App: Message seqn 13 sent correctly!
+07:05.410	ID:1	App: Recv from 03:00 seqn 13 hops 2
+07:05.413	ID:1	my_collect: recv data from 0a:00 hops 2
+07:05.921	ID:8	App: Send seqn 13
+07:05.925	ID:8	App: Message seqn 13 sent correctly!
+07:06.159	ID:1	App: Recv from 08:00 seqn 13 hops 3
+07:06.162	ID:1	my_collect: recv data from 0a:00 hops 3
+07:07.030	ID:10	App: Send seqn 13
+07:07.033	ID:10	App: Message seqn 13 sent correctly!
+07:07.159	ID:1	App: Recv from 0a:00 seqn 13 hops 1
+07:07.162	ID:1	my_collect: recv data from 0a:00 hops 1
+07:07.861	ID:4	App: Send seqn 13
+07:07.865	ID:4	App: Message seqn 13 sent correctly!
+07:08.034	ID:1	App: Recv from 04:00 seqn 13 hops 2
+07:08.037	ID:1	my_collect: recv data from 06:00 hops 2
+07:08.834	ID:6	App: Send seqn 13
+07:08.837	ID:6	App: Message seqn 13 sent correctly!
+07:08.892	ID:5	App: Send seqn 13
+07:08.895	ID:5	App: Message seqn 13 sent correctly!
+07:09.536	ID:1	App: Recv from 05:00 seqn 13 hops 1
+07:09.539	ID:1	my_collect: recv data from 05:00 hops 1
+07:09.657	ID:1	App: Recv from 06:00 seqn 13 hops 1
+07:09.660	ID:1	my_collect: recv data from 06:00 hops 1
+07:31.961	ID:8	App: Send seqn 14
+07:31.964	ID:8	App: Message seqn 14 sent correctly!
+07:32.158	ID:1	App: Recv from 08:00 seqn 14 hops 3
+07:32.161	ID:1	my_collect: recv data from 0a:00 hops 3
+07:34.620	ID:4	App: Send seqn 14
+07:34.623	ID:4	App: Message seqn 14 sent correctly!
+07:34.784	ID:1	App: Recv from 04:00 seqn 14 hops 2
+07:34.787	ID:1	my_collect: recv data from 06:00 hops 2
+07:35.977	ID:7	App: Send seqn 14
+07:35.981	ID:7	App: Message seqn 14 sent correctly!
+07:36.035	ID:1	App: Recv from 07:00 seqn 14 hops 1
+07:36.038	ID:1	my_collect: recv data from 07:00 hops 1
+07:37.505	ID:6	App: Send seqn 14
+07:37.509	ID:6	App: Message seqn 14 sent correctly!
+07:37.534	ID:1	App: Recv from 06:00 seqn 14 hops 1
+07:37.537	ID:1	my_collect: recv data from 06:00 hops 1
+07:39.328	ID:10	App: Send seqn 14
+07:39.332	ID:10	App: Message seqn 14 sent correctly!
+07:39.409	ID:1	App: Recv from 0a:00 seqn 14 hops 1
+07:39.412	ID:1	my_collect: recv data from 0a:00 hops 1
+07:42.413	ID:2	App: Send seqn 14
+07:42.416	ID:2	App: Message seqn 14 sent correctly!
+07:42.532	ID:1	App: Recv from 02:00 seqn 14 hops 1
+07:42.535	ID:1	my_collect: recv data from 02:00 hops 1
+07:43.159	ID:9	App: Send seqn 14
+07:43.162	ID:9	App: Message seqn 14 sent correctly!
+07:43.284	ID:1	App: Recv from 09:00 seqn 14 hops 2
+07:43.287	ID:1	my_collect: recv data from 0a:00 hops 2
+07:43.732	ID:3	App: Send seqn 14
+07:43.736	ID:3	App: Message seqn 14 sent correctly!
+07:43.908	ID:1	App: Recv from 03:00 seqn 14 hops 2
+07:43.911	ID:1	my_collect: recv data from 0a:00 hops 2
+07:45.314	ID:5	App: Send seqn 14
+07:45.317	ID:5	App: Message seqn 14 sent correctly!
+07:45.410	ID:1	App: Recv from 05:00 seqn 14 hops 1
+07:45.413	ID:1	my_collect: recv data from 05:00 hops 1
+08:01.663	ID:1	my_collect: sending beacon: seqn 8 metric 0
+08:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -86
+08:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+08:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -85
+08:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+08:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -63
+08:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+08:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -44
+08:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+08:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 8 metric 0 rssi -39
+08:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+08:01.964	ID:7	my_collect: sending beacon: seqn 8 metric 1
+08:02.015	ID:2	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -73
+08:02.031	ID:6	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -73
+08:02.037	ID:1	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -39
+08:02.086	ID:10	my_collect: recv beacon from 07:00 seqn 8 metric 1 rssi -60
+08:02.087	ID:2	my_collect: sending beacon: seqn 8 metric 1
+08:02.219	ID:8	App: Send seqn 15
+08:02.223	ID:8	App: Message seqn 15 sent correctly!
+08:02.244	ID:5	my_collect: recv beacon from 02:00 seqn 8 metric 1 rssi -31
+08:02.304	ID:6	my_collect: sending beacon: seqn 8 metric 1
+08:02.353	ID:5	App: Send seqn 15
+08:02.357	ID:5	App: Message seqn 15 sent correctly!
+08:02.376	ID:10	my_collect: sending beacon: seqn 8 metric 1
+08:02.637	ID:5	my_collect: sending beacon: seqn 8 metric 1
+08:03.610	ID:9	my_collect: recv beacon from 0a:00 seqn 8 metric 1 rssi -80
+08:03.613	ID:9	my_collect: new parent 0a:00, my metric 2
+08:03.645	ID:9	my_collect: sending beacon: seqn 8 metric 2
+08:03.677	ID:3	my_collect: recv beacon from 09:00 seqn 8 metric 2 rssi -51
+08:03.680	ID:3	my_collect: new parent 09:00, my metric 3
+08:03.710	ID:10	my_collect: recv beacon from 09:00 seqn 8 metric 2 rssi -80
+08:03.727	ID:8	my_collect: recv beacon from 09:00 seqn 8 metric 2 rssi -62
+08:03.730	ID:8	my_collect: new parent 09:00, my metric 3
+08:03.906	ID:3	my_collect: sending beacon: seqn 8 metric 3
+08:03.960	ID:10	my_collect: recv beacon from 03:00 seqn 8 metric 3 rssi -52
+08:03.977	ID:8	my_collect: recv beacon from 03:00 seqn 8 metric 3 rssi -89
+08:03.987	ID:9	my_collect: recv beacon from 03:00 seqn 8 metric 3 rssi -51
+08:04.221	ID:4	App: Send seqn 15
+08:04.224	ID:4	App: Message seqn 15 sent correctly!
+08:04.409	ID:1	App: Recv from 04:00 seqn 15 hops 2
+08:04.412	ID:1	my_collect: recv data from 06:00 hops 2
+08:04.697	ID:8	my_collect: sending beacon: seqn 8 metric 3
+08:04.737	ID:9	my_collect: recv beacon from 08:00 seqn 8 metric 3 rssi -62
+08:04.803	ID:3	my_collect: recv beacon from 08:00 seqn 8 metric 3 rssi -89
+08:05.420	ID:6	App: Send seqn 15
+08:05.423	ID:6	App: Message seqn 15 sent correctly!
+08:05.532	ID:1	App: Recv from 06:00 seqn 15 hops 1
+08:05.535	ID:1	my_collect: recv data from 06:00 hops 1
+08:07.084	ID:3	App: Send seqn 15
+08:07.088	ID:3	App: Message seqn 15 sent correctly!
+08:07.283	ID:1	App: Recv from 03:00 seqn 15 hops 3
+08:07.286	ID:1	my_collect: recv data from 0a:00 hops 3
+08:07.929	ID:10	App: Send seqn 15
+08:07.932	ID:10	App: Message seqn 15 sent correctly!
+08:08.034	ID:1	App: Recv from 0a:00 seqn 15 hops 1
+08:08.037	ID:1	my_collect: recv data from 0a:00 hops 1
+08:09.166	ID:9	App: Send seqn 15
+08:09.170	ID:9	App: Message seqn 15 sent correctly!
+08:09.285	ID:1	App: Recv from 09:00 seqn 15 hops 2
+08:09.288	ID:1	my_collect: recv data from 0a:00 hops 2
+08:10.890	ID:2	App: Send seqn 15
+08:10.893	ID:2	App: Message seqn 15 sent correctly!
+08:11.035	ID:1	App: Recv from 02:00 seqn 15 hops 1
+08:11.038	ID:1	my_collect: recv data from 02:00 hops 1
+08:13.485	ID:7	App: Send seqn 15
+08:13.488	ID:7	App: Message seqn 15 sent correctly!
+08:13.535	ID:1	App: Recv from 07:00 seqn 15 hops 1
+08:13.538	ID:1	my_collect: recv data from 07:00 hops 1
+08:30.390	ID:8	App: Send seqn 16
+08:30.393	ID:8	App: Message seqn 16 sent correctly!
+08:30.658	ID:1	App: Recv from 08:00 seqn 16 hops 3
+08:30.661	ID:1	my_collect: recv data from 0a:00 hops 3
+08:31.257	ID:10	App: Send seqn 16
+08:31.260	ID:10	App: Message seqn 16 sent correctly!
+08:31.283	ID:1	App: Recv from 0a:00 seqn 16 hops 1
+08:31.286	ID:1	my_collect: recv data from 0a:00 hops 1
+08:33.838	ID:9	App: Send seqn 16
+08:33.842	ID:9	App: Message seqn 16 sent correctly!
+08:34.033	ID:1	App: Recv from 09:00 seqn 16 hops 2
+08:34.036	ID:1	my_collect: recv data from 0a:00 hops 2
+08:34.133	ID:2	App: Send seqn 16
+08:34.136	ID:2	App: Message seqn 16 sent correctly!
+08:34.159	ID:1	App: Recv from 02:00 seqn 16 hops 1
+08:34.162	ID:1	my_collect: recv data from 02:00 hops 1
+08:36.319	ID:3	App: Send seqn 16
+08:36.322	ID:3	App: Message seqn 16 sent correctly!
+08:36.534	ID:1	App: Recv from 03:00 seqn 16 hops 3
+08:36.537	ID:1	my_collect: recv data from 0a:00 hops 3
+08:40.014	ID:6	App: Send seqn 16
+08:40.017	ID:6	App: Message seqn 16 sent correctly!
+08:40.157	ID:7	App: Send seqn 16
+08:40.160	ID:7	App: Message seqn 16 sent correctly!
+08:40.161	ID:1	App: Recv from 06:00 seqn 16 hops 1
+08:40.164	ID:1	my_collect: recv data from 06:00 hops 1
+08:40.283	ID:1	App: Recv from 07:00 seqn 16 hops 1
+08:40.286	ID:1	my_collect: recv data from 07:00 hops 1
+08:43.712	ID:5	App: Send seqn 16
+08:43.716	ID:5	App: Message seqn 16 sent correctly!
+08:43.784	ID:1	App: Recv from 05:00 seqn 16 hops 1
+08:43.787	ID:1	my_collect: recv data from 05:00 hops 1
+08:43.791	ID:4	App: Send seqn 16
+08:43.794	ID:4	App: Message seqn 16 sent correctly!
+08:44.034	ID:1	App: Recv from 04:00 seqn 16 hops 2
+08:44.037	ID:1	my_collect: recv data from 06:00 hops 2
+09:01.054	ID:8	App: Send seqn 17
+09:01.058	ID:8	App: Message seqn 17 sent correctly!
+09:01.284	ID:1	App: Recv from 08:00 seqn 17 hops 3
+09:01.287	ID:1	my_collect: recv data from 0a:00 hops 3
+09:01.663	ID:1	my_collect: sending beacon: seqn 9 metric 0
+09:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -86
+09:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+09:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -85
+09:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+09:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -63
+09:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+09:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -44
+09:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+09:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 9 metric 0 rssi -39
+09:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+09:01.830	ID:7	my_collect: sending beacon: seqn 9 metric 1
+09:01.890	ID:2	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -73
+09:01.906	ID:6	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -73
+09:01.909	ID:1	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -39
+09:01.951	ID:3	App: Send seqn 17
+09:01.954	ID:3	App: Message seqn 17 sent correctly!
+09:01.955	ID:4	App: Send seqn 17
+09:01.958	ID:4	App: Message seqn 17 sent correctly!
+09:01.961	ID:10	my_collect: recv beacon from 07:00 seqn 9 metric 1 rssi -60
+09:01.993	ID:10	my_collect: sending beacon: seqn 9 metric 1
+09:02.199	ID:5	my_collect: sending beacon: seqn 9 metric 1
+09:02.555	ID:2	my_collect: sending beacon: seqn 9 metric 1
+09:02.658	ID:1	App: Recv from 04:00 seqn 17 hops 2
+09:02.659	ID:6	my_collect: sending beacon: seqn 9 metric 1
+09:02.661	ID:1	my_collect: recv data from 06:00 hops 2
+09:02.680	ID:7	my_collect: recv beacon from 06:00 seqn 9 metric 1 rssi -73
+09:02.751	ID:4	my_collect: recv beacon from 06:00 seqn 9 metric 1 rssi -62
+09:02.755	ID:4	my_collect: new parent 06:00, my metric 2
+09:02.765	ID:2	my_collect: recv beacon from 06:00 seqn 9 metric 1 rssi -81
+09:02.787	ID:1	my_collect: recv beacon from 06:00 seqn 9 metric 1 rssi -44
+09:02.868	ID:5	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -31
+09:02.904	ID:6	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -81
+09:02.912	ID:1	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -63
+09:02.932	ID:7	my_collect: recv beacon from 02:00 seqn 9 metric 1 rssi -73
+09:02.964	ID:4	my_collect: sending beacon: seqn 9 metric 2
+09:03.029	ID:6	my_collect: recv beacon from 04:00 seqn 9 metric 2 rssi -62
+09:03.534	ID:1	App: Recv from 03:00 seqn 17 hops 3
+09:03.537	ID:1	my_collect: recv data from 0a:00 hops 3
+09:04.253	ID:9	App: Send seqn 17
+09:04.256	ID:9	App: Message seqn 17 sent correctly!
+09:04.410	ID:1	App: Recv from 09:00 seqn 17 hops 2
+09:04.413	ID:1	my_collect: recv data from 0a:00 hops 2
+09:06.071	ID:7	App: Send seqn 17
+09:06.074	ID:7	App: Message seqn 17 sent correctly!
+09:06.160	ID:1	App: Recv from 07:00 seqn 17 hops 1
+09:06.163	ID:1	my_collect: recv data from 07:00 hops 1
+09:08.782	ID:5	App: Send seqn 17
+09:08.786	ID:5	App: Message seqn 17 sent correctly!
+09:08.909	ID:1	App: Recv from 05:00 seqn 17 hops 1
+09:08.912	ID:1	my_collect: recv data from 05:00 hops 1
+09:09.233	ID:2	App: Send seqn 17
+09:09.237	ID:2	App: Message seqn 17 sent correctly!
+09:09.284	ID:1	App: Recv from 02:00 seqn 17 hops 1
+09:09.287	ID:1	my_collect: recv data from 02:00 hops 1
+09:11.264	ID:10	App: Send seqn 17
+09:11.268	ID:10	App: Message seqn 17 sent correctly!
+09:11.410	ID:1	App: Recv from 0a:00 seqn 17 hops 1
+09:11.413	ID:1	my_collect: recv data from 0a:00 hops 1
+09:13.772	ID:6	App: Send seqn 17
+09:13.775	ID:6	App: Message seqn 17 sent correctly!
+09:13.911	ID:1	App: Recv from 06:00 seqn 17 hops 1
+09:13.914	ID:1	my_collect: recv data from 06:00 hops 1
+09:34.943	ID:6	App: Send seqn 18
+09:34.946	ID:6	App: Message seqn 18 sent correctly!
+09:35.034	ID:1	App: Recv from 06:00 seqn 18 hops 1
+09:35.037	ID:1	my_collect: recv data from 06:00 hops 1
+09:38.483	ID:10	App: Send seqn 18
+09:38.487	ID:10	App: Message seqn 18 sent correctly!
+09:38.533	ID:1	App: Recv from 0a:00 seqn 18 hops 1
+09:38.536	ID:1	my_collect: recv data from 0a:00 hops 1
+09:40.437	ID:8	App: Send seqn 18
+09:40.440	ID:8	App: Message seqn 18 sent correctly!
+09:40.660	ID:1	App: Recv from 08:00 seqn 18 hops 3
+09:40.663	ID:1	my_collect: recv data from 0a:00 hops 3
+09:41.680	ID:7	App: Send seqn 18
+09:41.684	ID:7	App: Message seqn 18 sent correctly!
+09:41.785	ID:1	App: Recv from 07:00 seqn 18 hops 1
+09:41.788	ID:1	my_collect: recv data from 07:00 hops 1
+09:43.385	ID:9	App: Send seqn 18
+09:43.389	ID:9	App: Message seqn 18 sent correctly!
+09:43.535	ID:1	App: Recv from 09:00 seqn 18 hops 2
+09:43.538	ID:1	my_collect: recv data from 0a:00 hops 2
+09:43.671	ID:3	App: Send seqn 18
+09:43.674	ID:3	App: Message seqn 18 sent correctly!
+09:43.829	ID:5	App: Send seqn 18
+09:43.833	ID:5	App: Message seqn 18 sent correctly!
+09:44.064	ID:4	App: Send seqn 18
+09:44.068	ID:4	App: Message seqn 18 sent correctly!
+09:44.077	ID:2	App: Send seqn 18
+09:44.081	ID:2	App: Message seqn 18 sent correctly!
+09:45.034	ID:1	App: Recv from 04:00 seqn 18 hops 2
+09:45.037	ID:1	my_collect: recv data from 06:00 hops 2
+09:46.409	ID:1	App: Recv from 02:00 seqn 18 hops 1
+09:46.412	ID:1	my_collect: recv data from 02:00 hops 1
+10:01.663	ID:1	my_collect: sending beacon: seqn 10 metric 0
+10:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -86
+10:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+10:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -85
+10:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+10:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -63
+10:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+10:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -44
+10:01.782	ID:10	my_collect: sending beacon: seqn 10 metric 1
+10:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+10:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 10 metric 0 rssi -39
+10:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+10:01.907	ID:2	my_collect: sending beacon: seqn 10 metric 1
+10:01.912	ID:1	my_collect: recv beacon from 0a:00 seqn 10 metric 1 rssi -86
+10:02.035	ID:1	my_collect: recv beacon from 02:00 seqn 10 metric 1 rssi -63
+10:02.242	ID:6	my_collect: sending beacon: seqn 10 metric 1
+10:02.266	ID:2	my_collect: recv beacon from 06:00 seqn 10 metric 1 rssi -81
+10:02.288	ID:1	my_collect: recv beacon from 06:00 seqn 10 metric 1 rssi -44
+10:02.307	ID:7	my_collect: recv beacon from 06:00 seqn 10 metric 1 rssi -73
+10:02.375	ID:4	my_collect: recv beacon from 06:00 seqn 10 metric 1 rssi -62
+10:02.378	ID:4	my_collect: new parent 06:00, my metric 2
+10:02.503	ID:5	my_collect: sending beacon: seqn 10 metric 1
+10:02.535	ID:1	my_collect: recv beacon from 05:00 seqn 10 metric 1 rssi -85
+10:02.640	ID:2	my_collect: recv beacon from 05:00 seqn 10 metric 1 rssi -31
+10:02.792	ID:7	my_collect: sending beacon: seqn 10 metric 1
+10:02.835	ID:10	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -60
+10:02.890	ID:2	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -73
+10:02.904	ID:6	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -73
+10:02.909	ID:1	my_collect: recv beacon from 07:00 seqn 10 metric 1 rssi -39
+10:03.301	ID:4	my_collect: sending beacon: seqn 10 metric 2
+10:03.404	ID:6	my_collect: recv beacon from 04:00 seqn 10 metric 2 rssi -62
+10:07.960	ID:10	App: Send seqn 19
+10:07.963	ID:10	App: Message seqn 19 sent correctly!
+10:08.034	ID:1	App: Recv from 0a:00 seqn 19 hops 1
+10:08.037	ID:1	my_collect: recv data from 0a:00 hops 1
+10:08.107	ID:6	App: Send seqn 19
+10:08.111	ID:6	App: Message seqn 19 sent correctly!
+10:08.160	ID:1	App: Recv from 06:00 seqn 19 hops 1
+10:08.163	ID:1	my_collect: recv data from 06:00 hops 1
+10:08.741	ID:2	App: Send seqn 19
+10:08.744	ID:2	App: Message seqn 19 sent correctly!
+10:08.784	ID:1	App: Recv from 02:00 seqn 19 hops 1
+10:08.787	ID:1	my_collect: recv data from 02:00 hops 1
+10:09.164	ID:8	App: Send seqn 19
+10:09.167	ID:8	App: Message seqn 19 sent correctly!
+10:09.409	ID:1	App: Recv from 08:00 seqn 19 hops 3
+10:09.412	ID:1	my_collect: recv data from 0a:00 hops 3
+10:09.556	ID:5	App: Send seqn 19
+10:09.560	ID:5	App: Message seqn 19 sent correctly!
+10:09.659	ID:1	App: Recv from 05:00 seqn 19 hops 1
+10:09.662	ID:1	my_collect: recv data from 05:00 hops 1
+10:11.125	ID:7	App: Send seqn 19
+10:11.129	ID:7	App: Message seqn 19 sent correctly!
+10:11.159	ID:1	App: Recv from 07:00 seqn 19 hops 1
+10:11.162	ID:1	my_collect: recv data from 07:00 hops 1
+10:11.759	ID:4	App: Send seqn 19
+10:11.763	ID:4	App: Message seqn 19 sent correctly!
+10:12.034	ID:1	App: Recv from 04:00 seqn 19 hops 2
+10:12.037	ID:1	my_collect: recv data from 06:00 hops 2
+10:13.862	ID:9	App: Send seqn 19
+10:13.865	ID:9	App: Message seqn 19 sent correctly!
+10:14.036	ID:1	App: Recv from 09:00 seqn 19 hops 2
+10:14.039	ID:1	my_collect: recv data from 0a:00 hops 2
+10:15.272	ID:3	App: Send seqn 19
+10:15.275	ID:3	App: Message seqn 19 sent correctly!
+10:15.535	ID:1	App: Recv from 03:00 seqn 19 hops 3
+10:15.538	ID:1	my_collect: recv data from 0a:00 hops 3
+10:32.423	ID:7	App: Send seqn 20
+10:32.427	ID:7	App: Message seqn 20 sent correctly!
+10:32.536	ID:1	App: Recv from 07:00 seqn 20 hops 1
+10:32.539	ID:1	my_collect: recv data from 07:00 hops 1
+10:33.842	ID:3	App: Send seqn 20
+10:33.845	ID:3	App: Message seqn 20 sent correctly!
+10:34.161	ID:1	App: Recv from 03:00 seqn 20 hops 3
+10:34.164	ID:1	my_collect: recv data from 0a:00 hops 3
+10:35.807	ID:9	App: Send seqn 20
+10:35.810	ID:9	App: Message seqn 20 sent correctly!
+10:35.909	ID:1	App: Recv from 09:00 seqn 20 hops 2
+10:35.912	ID:1	my_collect: recv data from 0a:00 hops 2
+10:36.041	ID:5	App: Send seqn 20
+10:36.044	ID:5	App: Message seqn 20 sent correctly!
+10:36.160	ID:1	App: Recv from 05:00 seqn 20 hops 1
+10:36.163	ID:1	my_collect: recv data from 05:00 hops 1
+10:36.288	ID:2	App: Send seqn 20
+10:36.291	ID:2	App: Message seqn 20 sent correctly!
+10:36.407	ID:1	App: Recv from 02:00 seqn 20 hops 1
+10:36.410	ID:1	my_collect: recv data from 02:00 hops 1
+10:40.556	ID:4	App: Send seqn 20
+10:40.560	ID:4	App: Message seqn 20 sent correctly!
+10:40.785	ID:1	App: Recv from 04:00 seqn 20 hops 2
+10:40.788	ID:1	my_collect: recv data from 06:00 hops 2
+10:43.217	ID:6	App: Send seqn 20
+10:43.220	ID:6	App: Message seqn 20 sent correctly!
+10:43.284	ID:1	App: Recv from 06:00 seqn 20 hops 1
+10:43.287	ID:1	my_collect: recv data from 06:00 hops 1
+10:44.203	ID:10	App: Send seqn 20
+10:44.207	ID:10	App: Message seqn 20 sent correctly!
+10:44.285	ID:1	App: Recv from 0a:00 seqn 20 hops 1
+10:44.288	ID:1	my_collect: recv data from 0a:00 hops 1
+10:44.359	ID:8	App: Send seqn 20
+10:44.362	ID:8	App: Message seqn 20 sent correctly!
+10:44.658	ID:1	App: Recv from 08:00 seqn 20 hops 3
+10:44.661	ID:1	my_collect: recv data from 0a:00 hops 3
+11:00.648	ID:8	App: Send seqn 21
+11:00.652	ID:8	App: Message seqn 21 sent correctly!
+11:00.909	ID:1	App: Recv from 08:00 seqn 21 hops 3
+11:00.912	ID:1	my_collect: recv data from 0a:00 hops 3
+11:01.663	ID:1	my_collect: sending beacon: seqn 11 metric 0
+11:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -86
+11:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+11:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -85
+11:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+11:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -63
+11:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+11:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -44
+11:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+11:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 11 metric 0 rssi -39
+11:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+11:01.953	ID:6	my_collect: sending beacon: seqn 11 metric 1
+11:01.962	ID:2	my_collect: sending beacon: seqn 11 metric 1
+11:02.002	ID:4	my_collect: recv beacon from 06:00 seqn 11 metric 1 rssi -62
+11:02.005	ID:4	my_collect: new parent 06:00, my metric 2
+11:02.015	ID:2	my_collect: recv beacon from 06:00 seqn 11 metric 1 rssi -81
+11:02.037	ID:1	my_collect: recv beacon from 06:00 seqn 11 metric 1 rssi -44
+11:02.056	ID:7	my_collect: recv beacon from 06:00 seqn 11 metric 1 rssi -73
+11:02.245	ID:5	my_collect: recv beacon from 02:00 seqn 11 metric 1 rssi -31
+11:02.251	ID:10	my_collect: sending beacon: seqn 11 metric 1
+11:02.362	ID:9	my_collect: recv beacon from 0a:00 seqn 11 metric 1 rssi -80
+11:02.366	ID:9	my_collect: new parent 0a:00, my metric 2
+11:02.391	ID:10	App: Send seqn 21
+11:02.395	ID:10	App: Message seqn 21 sent correctly!
+11:02.482	ID:9	my_collect: sending beacon: seqn 11 metric 2
+11:02.535	ID:1	App: Recv from 0a:00 seqn 21 hops 1
+11:02.538	ID:1	my_collect: recv data from 0a:00 hops 1
+11:02.601	ID:8	my_collect: recv beacon from 09:00 seqn 11 metric 2 rssi -62
+11:02.604	ID:8	my_collect: new parent 09:00, my metric 3
+11:02.605	ID:4	my_collect: sending beacon: seqn 11 metric 2
+11:02.652	ID:5	my_collect: sending beacon: seqn 11 metric 1
+11:02.721	ID:7	my_collect: sending beacon: seqn 11 metric 1
+11:02.835	ID:10	my_collect: recv beacon from 07:00 seqn 11 metric 1 rssi -60
+11:02.846	ID:9	App: Send seqn 21
+11:02.850	ID:9	App: Message seqn 21 sent correctly!
+11:03.036	ID:1	App: Recv from 09:00 seqn 21 hops 2
+11:03.039	ID:1	my_collect: recv data from 0a:00 hops 2
+11:03.408	ID:8	my_collect: sending beacon: seqn 11 metric 3
+11:03.426	ID:3	my_collect: recv beacon from 08:00 seqn 11 metric 3 rssi -89
+11:03.429	ID:3	my_collect: new parent 08:00, my metric 4
+11:03.487	ID:9	my_collect: recv beacon from 08:00 seqn 11 metric 3 rssi -62
+11:04.141	ID:3	my_collect: sending beacon: seqn 11 metric 4
+11:04.211	ID:10	my_collect: recv beacon from 03:00 seqn 11 metric 4 rssi -52
+11:04.227	ID:8	my_collect: recv beacon from 03:00 seqn 11 metric 4 rssi -89
+11:04.238	ID:9	my_collect: recv beacon from 03:00 seqn 11 metric 4 rssi -51
+11:04.912	ID:6	App: Send seqn 21
+11:04.915	ID:6	App: Message seqn 21 sent correctly!
+11:05.034	ID:1	App: Recv from 06:00 seqn 21 hops 1
+11:05.037	ID:1	my_collect: recv data from 06:00 hops 1
+11:06.006	ID:3	App: Send seqn 21
+11:06.009	ID:3	App: Message seqn 21 sent correctly!
+11:06.024	ID:7	App: Send seqn 21
+11:06.027	ID:7	App: Message seqn 21 sent correctly!
+11:06.160	ID:1	App: Recv from 07:00 seqn 21 hops 1
+11:06.163	ID:1	my_collect: recv data from 07:00 hops 1
+11:06.534	ID:1	App: Recv from 03:00 seqn 21 hops 4
+11:06.537	ID:1	my_collect: recv data from 0a:00 hops 4
+11:08.548	ID:5	App: Send seqn 21
+11:08.551	ID:5	App: Message seqn 21 sent correctly!
+11:08.658	ID:1	App: Recv from 05:00 seqn 21 hops 1
+11:08.661	ID:1	my_collect: recv data from 05:00 hops 1
+11:12.265	ID:2	App: Send seqn 21
+11:12.268	ID:2	App: Message seqn 21 sent correctly!
+11:12.408	ID:4	App: Send seqn 21
+11:12.410	ID:1	App: Recv from 02:00 seqn 21 hops 1
+11:12.412	ID:4	App: Message seqn 21 sent correctly!
+11:12.413	ID:1	my_collect: recv data from 02:00 hops 1
+11:12.659	ID:1	App: Recv from 04:00 seqn 21 hops 2
+11:12.662	ID:1	my_collect: recv data from 06:00 hops 2
+11:33.220	ID:5	App: Send seqn 22
+11:33.223	ID:5	App: Message seqn 22 sent correctly!
+11:33.284	ID:1	App: Recv from 05:00 seqn 22 hops 1
+11:33.287	ID:1	my_collect: recv data from 05:00 hops 1
+11:34.038	ID:10	App: Send seqn 22
+11:34.042	ID:10	App: Message seqn 22 sent correctly!
+11:34.160	ID:1	App: Recv from 0a:00 seqn 22 hops 1
+11:34.163	ID:1	my_collect: recv data from 0a:00 hops 1
+11:35.608	ID:2	App: Send seqn 22
+11:35.612	ID:2	App: Message seqn 22 sent correctly!
+11:35.659	ID:1	App: Recv from 02:00 seqn 22 hops 1
+11:35.662	ID:1	my_collect: recv data from 02:00 hops 1
+11:37.643	ID:4	App: Send seqn 22
+11:37.646	ID:4	App: Message seqn 22 sent correctly!
+11:37.709	ID:6	App: Send seqn 22
+11:37.712	ID:6	App: Message seqn 22 sent correctly!
+11:37.758	ID:7	App: Send seqn 22
+11:37.762	ID:7	App: Message seqn 22 sent correctly!
+11:38.786	ID:1	App: Recv from 07:00 seqn 22 hops 1
+11:38.789	ID:1	my_collect: recv data from 07:00 hops 1
+11:39.784	ID:1	App: Recv from 06:00 seqn 22 hops 1
+11:39.787	ID:1	my_collect: recv data from 06:00 hops 1
+11:41.508	ID:8	App: Send seqn 22
+11:41.511	ID:8	App: Message seqn 22 sent correctly!
+11:41.783	ID:1	App: Recv from 08:00 seqn 22 hops 3
+11:41.786	ID:1	my_collect: recv data from 0a:00 hops 3
+11:42.115	ID:3	App: Send seqn 22
+11:42.119	ID:3	App: Message seqn 22 sent correctly!
+11:42.536	ID:1	App: Recv from 03:00 seqn 22 hops 4
+11:42.539	ID:1	my_collect: recv data from 0a:00 hops 4
+11:43.276	ID:9	App: Send seqn 22
+11:43.279	ID:9	App: Message seqn 22 sent correctly!
+11:43.409	ID:1	App: Recv from 09:00 seqn 22 hops 2
+11:43.412	ID:1	my_collect: recv data from 0a:00 hops 2
+12:01.663	ID:1	my_collect: sending beacon: seqn 12 metric 0
+12:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -86
+12:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+12:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -85
+12:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+12:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -63
+12:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+12:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -44
+12:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+12:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 12 metric 0 rssi -39
+12:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+12:01.995	ID:7	my_collect: sending beacon: seqn 12 metric 1
+12:02.016	ID:2	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -73
+12:02.025	ID:10	my_collect: sending beacon: seqn 12 metric 1
+12:02.030	ID:6	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -73
+12:02.036	ID:1	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -39
+12:02.085	ID:10	my_collect: recv beacon from 07:00 seqn 12 metric 1 rssi -60
+12:02.364	ID:9	my_collect: recv beacon from 0a:00 seqn 12 metric 1 rssi -80
+12:02.367	ID:9	my_collect: new parent 0a:00, my metric 2
+12:02.413	ID:1	my_collect: recv beacon from 0a:00 seqn 12 metric 1 rssi -86
+12:02.429	ID:3	my_collect: recv beacon from 0a:00 seqn 12 metric 1 rssi -52
+12:02.432	ID:7	my_collect: recv beacon from 0a:00 seqn 12 metric 1 rssi -60
+12:02.433	ID:3	my_collect: new parent 0a:00, my metric 2
+12:02.519	ID:5	my_collect: sending beacon: seqn 12 metric 1
+12:02.595	ID:2	my_collect: sending beacon: seqn 12 metric 1
+12:02.601	ID:6	my_collect: sending beacon: seqn 12 metric 1
+12:02.680	ID:7	my_collect: recv beacon from 06:00 seqn 12 metric 1 rssi -73
+12:02.700	ID:9	my_collect: sending beacon: seqn 12 metric 2
+12:02.852	ID:3	my_collect: sending beacon: seqn 12 metric 2
+12:02.961	ID:10	my_collect: recv beacon from 03:00 seqn 12 metric 2 rssi -52
+12:02.977	ID:8	my_collect: recv beacon from 03:00 seqn 12 metric 2 rssi -89
+12:02.980	ID:8	my_collect: new parent 03:00, my metric 3
+12:02.985	ID:9	my_collect: recv beacon from 03:00 seqn 12 metric 2 rssi -51
+12:03.369	ID:8	my_collect: sending beacon: seqn 12 metric 3
+12:03.428	ID:3	my_collect: recv beacon from 08:00 seqn 12 metric 3 rssi -89
+12:03.489	ID:9	my_collect: recv beacon from 08:00 seqn 12 metric 3 rssi -62
+12:04.828	ID:8	App: Send seqn 23
+12:04.831	ID:8	App: Message seqn 23 sent correctly!
+12:05.034	ID:1	App: Recv from 08:00 seqn 23 hops 3
+12:05.037	ID:1	my_collect: recv data from 0a:00 hops 3
+12:05.641	ID:7	App: Send seqn 23
+12:05.644	ID:7	App: Message seqn 23 sent correctly!
+12:05.784	ID:1	App: Recv from 07:00 seqn 23 hops 1
+12:05.787	ID:1	my_collect: recv data from 07:00 hops 1
+12:07.421	ID:10	App: Send seqn 23
+12:07.424	ID:10	App: Message seqn 23 sent correctly!
+12:07.535	ID:1	App: Recv from 0a:00 seqn 23 hops 1
+12:07.538	ID:1	my_collect: recv data from 0a:00 hops 1
+12:08.404	ID:6	App: Send seqn 23
+12:08.408	ID:6	App: Message seqn 23 sent correctly!
+12:08.535	ID:1	App: Recv from 06:00 seqn 23 hops 1
+12:08.538	ID:1	my_collect: recv data from 06:00 hops 1
+12:08.810	ID:3	App: Send seqn 23
+12:08.814	ID:3	App: Message seqn 23 sent correctly!
+12:08.910	ID:1	App: Recv from 03:00 seqn 23 hops 2
+12:08.913	ID:1	my_collect: recv data from 0a:00 hops 2
+12:09.134	ID:5	App: Send seqn 23
+12:09.138	ID:5	App: Message seqn 23 sent correctly!
+12:09.158	ID:1	App: Recv from 05:00 seqn 23 hops 1
+12:09.161	ID:1	my_collect: recv data from 05:00 hops 1
+12:09.178	ID:2	App: Send seqn 23
+12:09.182	ID:2	App: Message seqn 23 sent correctly!
+12:09.283	ID:1	App: Recv from 02:00 seqn 23 hops 1
+12:09.286	ID:1	my_collect: recv data from 02:00 hops 1
+12:12.775	ID:4	App: Send seqn 23
+12:12.778	ID:4	App: Message seqn 23 sent correctly!
+12:13.034	ID:1	App: Recv from 04:00 seqn 23 hops 2
+12:13.037	ID:1	my_collect: recv data from 06:00 hops 2
+12:15.940	ID:9	App: Send seqn 23
+12:15.944	ID:9	App: Message seqn 23 sent correctly!
+12:16.159	ID:1	App: Recv from 09:00 seqn 23 hops 2
+12:16.162	ID:1	my_collect: recv data from 0a:00 hops 2
+12:31.252	ID:4	App: Send seqn 24
+12:31.255	ID:4	App: Message seqn 24 sent correctly!
+12:31.409	ID:1	App: Recv from 04:00 seqn 24 hops 2
+12:31.412	ID:1	my_collect: recv data from 06:00 hops 2
+12:31.563	ID:7	App: Send seqn 24
+12:31.566	ID:7	App: Message seqn 24 sent correctly!
+12:31.607	ID:3	App: Send seqn 24
+12:31.611	ID:3	App: Message seqn 24 sent correctly!
+12:31.783	ID:1	App: Recv from 07:00 seqn 24 hops 1
+12:31.786	ID:1	my_collect: recv data from 07:00 hops 1
+12:32.036	ID:1	App: Recv from 03:00 seqn 24 hops 2
+12:32.039	ID:1	my_collect: recv data from 0a:00 hops 2
+12:32.050	ID:9	App: Send seqn 24
+12:32.053	ID:9	App: Message seqn 24 sent correctly!
+12:32.159	ID:1	App: Recv from 09:00 seqn 24 hops 2
+12:32.162	ID:1	my_collect: recv data from 0a:00 hops 2
+12:32.744	ID:5	App: Send seqn 24
+12:32.747	ID:5	App: Message seqn 24 sent correctly!
+12:32.785	ID:1	App: Recv from 05:00 seqn 24 hops 1
+12:32.788	ID:1	my_collect: recv data from 05:00 hops 1
+12:38.374	ID:8	App: Send seqn 24
+12:38.378	ID:8	App: Message seqn 24 sent correctly!
+12:38.536	ID:1	App: Recv from 08:00 seqn 24 hops 3
+12:38.539	ID:1	my_collect: recv data from 0a:00 hops 3
+12:39.389	ID:6	App: Send seqn 24
+12:39.392	ID:6	App: Message seqn 24 sent correctly!
+12:39.536	ID:1	App: Recv from 06:00 seqn 24 hops 1
+12:39.539	ID:1	my_collect: recv data from 06:00 hops 1
+12:40.139	ID:10	App: Send seqn 24
+12:40.143	ID:10	App: Message seqn 24 sent correctly!
+12:40.285	ID:1	App: Recv from 0a:00 seqn 24 hops 1
+12:40.288	ID:1	my_collect: recv data from 0a:00 hops 1
+12:45.147	ID:2	App: Send seqn 24
+12:45.151	ID:2	App: Message seqn 24 sent correctly!
+12:45.283	ID:1	App: Recv from 02:00 seqn 24 hops 1
+12:45.286	ID:1	my_collect: recv data from 02:00 hops 1
+13:01.663	ID:1	my_collect: sending beacon: seqn 13 metric 0
+13:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -86
+13:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+13:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -85
+13:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+13:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -63
+13:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+13:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -44
+13:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+13:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 13 metric 0 rssi -39
+13:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+13:02.000	ID:6	my_collect: sending beacon: seqn 13 metric 1
+13:02.038	ID:1	my_collect: recv beacon from 06:00 seqn 13 metric 1 rssi -44
+13:02.057	ID:7	my_collect: recv beacon from 06:00 seqn 13 metric 1 rssi -73
+13:02.125	ID:4	my_collect: recv beacon from 06:00 seqn 13 metric 1 rssi -62
+13:02.128	ID:4	my_collect: new parent 06:00, my metric 2
+13:02.142	ID:2	my_collect: recv beacon from 06:00 seqn 13 metric 1 rssi -81
+13:02.196	ID:2	my_collect: sending beacon: seqn 13 metric 1
+13:02.235	ID:10	my_collect: sending beacon: seqn 13 metric 1
+13:02.242	ID:5	my_collect: recv beacon from 02:00 seqn 13 metric 1 rssi -31
+13:02.245	ID:9	App: Send seqn 25
+13:02.248	ID:9	App: Message seqn 25 sent correctly!
+13:02.339	ID:7	my_collect: sending beacon: seqn 13 metric 1
+13:02.360	ID:9	my_collect: recv beacon from 0a:00 seqn 13 metric 1 rssi -80
+13:02.363	ID:9	my_collect: new parent 0a:00, my metric 2
+13:02.480	ID:5	my_collect: sending beacon: seqn 13 metric 1
+13:02.738	ID:4	my_collect: sending beacon: seqn 13 metric 2
+13:02.770	ID:9	my_collect: sending beacon: seqn 13 metric 2
+13:02.909	ID:1	App: Recv from 09:00 seqn 25 hops 2
+13:02.912	ID:1	my_collect: recv data from 0a:00 hops 2
+13:03.052	ID:3	my_collect: recv beacon from 09:00 seqn 13 metric 2 rssi -51
+13:03.055	ID:3	my_collect: new parent 09:00, my metric 3
+13:03.085	ID:10	my_collect: recv beacon from 09:00 seqn 13 metric 2 rssi -80
+13:03.102	ID:8	my_collect: recv beacon from 09:00 seqn 13 metric 2 rssi -62
+13:03.105	ID:8	my_collect: new parent 09:00, my metric 3
+13:03.156	ID:3	my_collect: sending beacon: seqn 13 metric 3
+13:03.210	ID:10	my_collect: recv beacon from 03:00 seqn 13 metric 3 rssi -52
+13:03.227	ID:8	my_collect: recv beacon from 03:00 seqn 13 metric 3 rssi -89
+13:03.237	ID:9	my_collect: recv beacon from 03:00 seqn 13 metric 3 rssi -51
+13:03.459	ID:3	App: Send seqn 25
+13:03.463	ID:3	App: Message seqn 25 sent correctly!
+13:03.548	ID:8	my_collect: sending beacon: seqn 13 metric 3
+13:03.659	ID:1	App: Recv from 03:00 seqn 25 hops 3
+13:03.662	ID:1	my_collect: recv data from 0a:00 hops 3
+13:03.737	ID:9	my_collect: recv beacon from 08:00 seqn 13 metric 3 rssi -62
+13:03.937	ID:2	App: Send seqn 25
+13:03.940	ID:2	App: Message seqn 25 sent correctly!
+13:04.032	ID:1	App: Recv from 02:00 seqn 25 hops 1
+13:04.035	ID:1	my_collect: recv data from 02:00 hops 1
+13:06.360	ID:7	App: Send seqn 25
+13:06.363	ID:7	App: Message seqn 25 sent correctly!
+13:06.410	ID:1	App: Recv from 07:00 seqn 25 hops 1
+13:06.413	ID:1	my_collect: recv data from 07:00 hops 1
+13:09.351	ID:8	App: Send seqn 25
+13:09.355	ID:8	App: Message seqn 25 sent correctly!
+13:09.660	ID:1	App: Recv from 08:00 seqn 25 hops 3
+13:09.663	ID:1	my_collect: recv data from 0a:00 hops 3
+13:10.197	ID:4	App: Send seqn 25
+13:10.200	ID:4	App: Message seqn 25 sent correctly!
+13:10.409	ID:1	App: Recv from 04:00 seqn 25 hops 2
+13:10.412	ID:1	my_collect: recv data from 06:00 hops 2
+13:11.189	ID:5	App: Send seqn 25
+13:11.192	ID:5	App: Message seqn 25 sent correctly!
+13:11.285	ID:1	App: Recv from 05:00 seqn 25 hops 1
+13:11.288	ID:1	my_collect: recv data from 05:00 hops 1
+13:14.647	ID:6	App: Send seqn 25
+13:14.650	ID:6	App: Message seqn 25 sent correctly!
+13:14.726	ID:10	App: Send seqn 25
+13:14.729	ID:10	App: Message seqn 25 sent correctly!
+13:15.286	ID:1	App: Recv from 06:00 seqn 25 hops 1
+13:15.289	ID:1	my_collect: recv data from 06:00 hops 1
+13:15.410	ID:1	App: Recv from 0a:00 seqn 25 hops 1
+13:15.413	ID:1	my_collect: recv data from 0a:00 hops 1
+13:34.446	ID:7	App: Send seqn 26
+13:34.449	ID:7	App: Message seqn 26 sent correctly!
+13:34.535	ID:1	App: Recv from 07:00 seqn 26 hops 1
+13:34.538	ID:1	my_collect: recv data from 07:00 hops 1
+13:35.818	ID:6	App: Send seqn 26
+13:35.821	ID:6	App: Message seqn 26 sent correctly!
+13:35.909	ID:1	App: Recv from 06:00 seqn 26 hops 1
+13:35.912	ID:1	my_collect: recv data from 06:00 hops 1
+13:38.486	ID:5	App: Send seqn 26
+13:38.490	ID:5	App: Message seqn 26 sent correctly!
+13:38.534	ID:1	App: Recv from 05:00 seqn 26 hops 1
+13:38.537	ID:1	my_collect: recv data from 05:00 hops 1
+13:40.335	ID:10	App: Send seqn 26
+13:40.338	ID:10	App: Message seqn 26 sent correctly!
+13:40.409	ID:1	App: Recv from 0a:00 seqn 26 hops 1
+13:40.412	ID:1	my_collect: recv data from 0a:00 hops 1
+13:41.796	ID:2	App: Send seqn 26
+13:41.799	ID:2	App: Message seqn 26 sent correctly!
+13:41.911	ID:1	App: Recv from 02:00 seqn 26 hops 1
+13:41.914	ID:1	my_collect: recv data from 02:00 hops 1
+13:42.094	ID:8	App: Send seqn 26
+13:42.098	ID:8	App: Message seqn 26 sent correctly!
+13:42.333	ID:9	App: Send seqn 26
+13:42.337	ID:9	App: Message seqn 26 sent correctly!
+13:42.410	ID:1	App: Recv from 08:00 seqn 26 hops 3
+13:42.413	ID:1	my_collect: recv data from 0a:00 hops 3
+13:42.534	ID:1	App: Recv from 09:00 seqn 26 hops 2
+13:42.537	ID:1	my_collect: recv data from 0a:00 hops 2
+13:42.694	ID:3	App: Send seqn 26
+13:42.697	ID:3	App: Message seqn 26 sent correctly!
+13:42.909	ID:1	App: Recv from 03:00 seqn 26 hops 3
+13:42.912	ID:1	my_collect: recv data from 0a:00 hops 3
+13:45.495	ID:4	App: Send seqn 26
+13:45.498	ID:4	App: Message seqn 26 sent correctly!
+13:45.659	ID:1	App: Recv from 04:00 seqn 26 hops 2
+13:45.662	ID:1	my_collect: recv data from 06:00 hops 2
+14:01.663	ID:1	my_collect: sending beacon: seqn 14 metric 0
+14:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -86
+14:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+14:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -85
+14:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+14:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -63
+14:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+14:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -44
+14:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+14:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 14 metric 0 rssi -39
+14:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+14:02.088	ID:5	App: Send seqn 27
+14:02.091	ID:5	App: Message seqn 27 sent correctly!
+14:02.117	ID:6	my_collect: sending beacon: seqn 14 metric 1
+14:02.182	ID:7	my_collect: sending beacon: seqn 14 metric 1
+14:02.197	ID:10	my_collect: sending beacon: seqn 14 metric 1
+14:02.282	ID:2	my_collect: sending beacon: seqn 14 metric 1
+14:02.413	ID:5	my_collect: sending beacon: seqn 14 metric 1
+14:02.482	ID:6	App: Send seqn 27
+14:02.486	ID:6	App: Message seqn 27 sent correctly!
+14:02.517	ID:2	my_collect: recv beacon from 05:00 seqn 14 metric 1 rssi -31
+14:02.536	ID:1	my_collect: recv beacon from 05:00 seqn 14 metric 1 rssi -85
+14:02.695	ID:8	App: Send seqn 27
+14:02.698	ID:8	App: Message seqn 27 sent correctly!
+14:03.578	ID:7	App: Send seqn 27
+14:03.582	ID:7	App: Message seqn 27 sent correctly!
+14:03.783	ID:1	App: Recv from 07:00 seqn 27 hops 1
+14:03.786	ID:1	my_collect: recv data from 07:00 hops 1
+14:03.911	ID:1	App: Recv from 08:00 seqn 27 hops 3
+14:03.914	ID:1	my_collect: recv data from 0a:00 hops 3
+14:04.120	ID:5	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -31
+14:04.155	ID:6	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -81
+14:04.161	ID:1	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -63
+14:04.180	ID:7	my_collect: recv beacon from 02:00 seqn 14 metric 1 rssi -73
+14:05.826	ID:3	App: Send seqn 27
+14:05.829	ID:3	App: Message seqn 27 sent correctly!
+14:06.035	ID:1	App: Recv from 03:00 seqn 27 hops 3
+14:06.038	ID:1	my_collect: recv data from 0a:00 hops 3
+14:07.616	ID:2	App: Send seqn 27
+14:07.619	ID:2	App: Message seqn 27 sent correctly!
+14:07.659	ID:1	App: Recv from 02:00 seqn 27 hops 1
+14:07.662	ID:1	my_collect: recv data from 02:00 hops 1
+14:08.221	ID:9	App: Send seqn 27
+14:08.225	ID:9	App: Message seqn 27 sent correctly!
+14:08.411	ID:1	App: Recv from 09:00 seqn 27 hops 2
+14:08.414	ID:1	my_collect: recv data from 0a:00 hops 2
+14:10.596	ID:4	App: Send seqn 27
+14:10.599	ID:4	App: Message seqn 27 sent correctly!
+14:10.784	ID:1	App: Recv from 04:00 seqn 27 hops 2
+14:10.787	ID:1	my_collect: recv data from 06:00 hops 2
+14:13.780	ID:10	App: Send seqn 27
+14:13.783	ID:10	App: Message seqn 27 sent correctly!
+14:13.909	ID:1	App: Recv from 0a:00 seqn 27 hops 1
+14:13.912	ID:1	my_collect: recv data from 0a:00 hops 1
+14:31.666	ID:4	App: Send seqn 28
+14:31.669	ID:4	App: Message seqn 28 sent correctly!
+14:31.909	ID:1	App: Recv from 04:00 seqn 28 hops 2
+14:31.912	ID:1	my_collect: recv data from 06:00 hops 2
+14:35.787	ID:6	App: Send seqn 28
+14:35.790	ID:6	App: Message seqn 28 sent correctly!
+14:35.909	ID:1	App: Recv from 06:00 seqn 28 hops 1
+14:35.912	ID:1	my_collect: recv data from 06:00 hops 1
+14:37.100	ID:2	App: Send seqn 28
+14:37.104	ID:2	App: Message seqn 28 sent correctly!
+14:37.160	ID:1	App: Recv from 02:00 seqn 28 hops 1
+14:37.163	ID:1	my_collect: recv data from 02:00 hops 1
+14:38.303	ID:3	App: Send seqn 28
+14:38.306	ID:3	App: Message seqn 28 sent correctly!
+14:38.535	ID:1	App: Recv from 03:00 seqn 28 hops 3
+14:38.538	ID:1	my_collect: recv data from 0a:00 hops 3
+14:41.704	ID:5	App: Send seqn 28
+14:41.708	ID:5	App: Message seqn 28 sent correctly!
+14:41.783	ID:1	App: Recv from 05:00 seqn 28 hops 1
+14:41.786	ID:1	my_collect: recv data from 05:00 hops 1
+14:42.980	ID:9	App: Send seqn 28
+14:42.983	ID:9	App: Message seqn 28 sent correctly!
+14:43.158	ID:1	App: Recv from 09:00 seqn 28 hops 2
+14:43.161	ID:1	my_collect: recv data from 0a:00 hops 2
+14:44.265	ID:8	App: Send seqn 28
+14:44.268	ID:8	App: Message seqn 28 sent correctly!
+14:44.399	ID:7	App: Send seqn 28
+14:44.402	ID:7	App: Message seqn 28 sent correctly!
+14:44.783	ID:1	App: Recv from 07:00 seqn 28 hops 1
+14:44.786	ID:1	my_collect: recv data from 07:00 hops 1
+14:44.910	ID:1	App: Recv from 08:00 seqn 28 hops 3
+14:44.913	ID:1	my_collect: recv data from 0a:00 hops 3
+14:45.679	ID:10	App: Send seqn 28
+14:45.682	ID:10	App: Message seqn 28 sent correctly!
+14:45.784	ID:1	App: Recv from 0a:00 seqn 28 hops 1
+14:45.787	ID:1	my_collect: recv data from 0a:00 hops 1
+15:01.663	ID:1	my_collect: sending beacon: seqn 15 metric 0
+15:01.711	ID:10	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -86
+15:01.714	ID:10	my_collect: new parent 01:00, my metric 1
+15:01.744	ID:5	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -85
+15:01.747	ID:5	my_collect: new parent 01:00, my metric 1
+15:01.766	ID:2	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -63
+15:01.769	ID:2	my_collect: new parent 01:00, my metric 1
+15:01.780	ID:6	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -44
+15:01.783	ID:6	my_collect: new parent 01:00, my metric 1
+15:01.807	ID:7	my_collect: recv beacon from 01:00 seqn 15 metric 0 rssi -39
+15:01.810	ID:7	my_collect: new parent 01:00, my metric 1
+15:01.836	ID:6	my_collect: sending beacon: seqn 15 metric 1
+15:01.878	ID:4	my_collect: recv beacon from 06:00 seqn 15 metric 1 rssi -62
+15:01.882	ID:4	my_collect: new parent 06:00, my metric 2
+15:01.890	ID:2	my_collect: recv beacon from 06:00 seqn 15 metric 1 rssi -81
+15:01.909	ID:1	my_collect: recv beacon from 06:00 seqn 15 metric 1 rssi -44
+15:01.931	ID:7	my_collect: recv beacon from 06:00 seqn 15 metric 1 rssi -73
+15:01.965	ID:4	my_collect: sending beacon: seqn 15 metric 2
+15:02.155	ID:6	my_collect: recv beacon from 04:00 seqn 15 metric 2 rssi -62
+15:02.261	ID:7	my_collect: sending beacon: seqn 15 metric 1
+15:02.274	ID:2	my_collect: sending beacon: seqn 15 metric 1
+15:02.287	ID:1	my_collect: recv beacon from 07:00 seqn 15 metric 1 rssi -39
+15:02.290	ID:10	my_collect: sending beacon: seqn 15 metric 1
+15:02.330	ID:4	App: Send seqn 29
+15:02.333	ID:4	App: Message seqn 29 sent correctly!
+15:02.336	ID:10	my_collect: recv beacon from 07:00 seqn 15 metric 1 rssi -60
+15:02.378	ID:5	my_collect: sending beacon: seqn 15 metric 1
+15:02.782	ID:1	App: Recv from 04:00 seqn 29 hops 2
+15:02.785	ID:1	my_collect: recv data from 06:00 hops 2
+15:02.805	ID:7	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -73
+15:02.868	ID:5	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -31
+15:02.904	ID:6	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -81
+15:02.912	ID:1	my_collect: recv beacon from 02:00 seqn 15 metric 1 rssi -63
+15:04.827	ID:2	App: Send seqn 29
+15:04.831	ID:2	App: Message seqn 29 sent correctly!
+15:04.908	ID:1	App: Recv from 02:00 seqn 29 hops 1
+15:04.911	ID:1	my_collect: recv data from 02:00 hops 1
+15:06.249	ID:10	App: Send seqn 29
+15:06.252	ID:10	App: Message seqn 29 sent correctly!
+15:06.285	ID:1	App: Recv from 0a:00 seqn 29 hops 1
+15:06.288	ID:1	my_collect: recv data from 0a:00 hops 1
+15:06.429	ID:8	App: Send seqn 29
+15:06.433	ID:8	App: Message seqn 29 sent correctly!
+15:06.469	ID:7	App: Send seqn 29
+15:06.472	ID:7	App: Message seqn 29 sent correctly!
+15:06.909	ID:1	App: Recv from 07:00 seqn 29 hops 1
+15:06.912	ID:1	my_collect: recv data from 07:00 hops 1
+15:07.036	ID:1	App: Recv from 08:00 seqn 29 hops 3
+15:07.039	ID:1	my_collect: recv data from 0a:00 hops 3
